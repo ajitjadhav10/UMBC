@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,,,"73 E Lake St, Chicago, IL",,,,,,,,41.88579--87.63036,,https://photos.zillowstatic.com/fp/da57ae97e4e8c67dd95ce839011a5271-p_e.jpg,,,,,,,True
+1,,,,"3740 N Halsted St, Chicago, IL",,,,,,,,41.95055--87.6501,,https://photos.zillowstatic.com/fp/6aec18f03555a4fd6e1ab0aba15454ff-p_e.jpg,,,,,,,True
+2,,,,"853 N Larrabee St, Chicago, IL",,,,,,,,41.897297--87.64276,,https://photos.zillowstatic.com/fp/f6d051894c78d83368b915ec82c7381b-p_e.jpg,,,,,,,True
+3,,,,"29 S Lasalle St, Chicago, IL",,,,,,,,41.88126--87.63233,,https://photos.zillowstatic.com/fp/fb10f7813e59ab16244a76c0e6dee350-p_e.jpg,,,,,,,True
+4,,APARTMENT,,"4905 N Springfield Ave #2, Chicago, IL 60625",-1.0,1350.0,,-87.72539,41.970314,,FOR_RENT,2108121970,,https://photos.zillowstatic.com/fp/c73053d85d4b0896064ceb6d0e0ad0cc-p_e.jpg,,1.0,,USA,USD,1.0,True
+5,,,,"8 W Chestnut St, Chicago, IL",,,,,,,,41.898144--87.62851,,https://photos.zillowstatic.com/fp/096e6a358104a447377af506ea2db1f5-p_e.jpg,,,,,,,True
+6,,,,"900 S Clark St, Chicago, IL",,,,,,,,41.870445--87.63101,,https://photos.zillowstatic.com/fp/94c47e7df77e5306e48b0b9cc365f1d6-p_e.jpg,,,,,,,True
+7,,APARTMENT,,"2642 W Luther St #1R, Chicago, IL 60608",-1.0,1250.0,,-87.69215,41.847282,,FOR_RENT,2080636840,,https://photos.zillowstatic.com/fp/c858034f55be6311b52dfa4eca4b2590-p_e.jpg,600.0,1.0,,USA,USD,1.0,True
+8,,,,"71 W Hubbard St, Chicago, IL",,,,,,,,41.889797--87.630745,,https://photos.zillowstatic.com/fp/75c77afc03e32ef852eaa9600e0f90eb-p_e.jpg,,,,,,,True
+9,,,,"340 E North Water St, Chicago, IL",,,,,,,,41.889503--87.61833,,https://photos.zillowstatic.com/fp/5a3d6e07aa100b38c9ecd8f5b5d80c1f-p_e.jpg,,,,,,,True
+10,,,,"365 N Halsted St, Chicago, IL",,,,,,,,41.888706--87.646645,,https://photos.zillowstatic.com/fp/e4ece598add5c6dea98d32307124961e-p_e.jpg,,,,,,,True
+11,,,,"555 W Kinzie St, Chicago, IL",,,,,,,,41.888706--87.641846,,https://photos.zillowstatic.com/fp/8e4ec8085003fda2e6c8e0e0ec56ae0b-p_e.jpg,,,,,,,True
+12,,APARTMENT,,"215 West Apartments, 215 W Washington St APT 5001, Chicago, IL 60606",-1.0,4726.0,,-87.6346,41.88311,,FOR_RENT,2111924390,,https://photos.zillowstatic.com/fp/2b67b3fae50c87adc17f4d5022c3b7e4-p_e.jpg,1589.0,2.0,,USA,USD,3.0,True
+13,,,,"182 W Lake St, Chicago, IL",,,,,,,,41.88603--87.633575,,https://photos.zillowstatic.com/fp/644f6a611a45d703bcc543b711b92838-p_e.jpg,,,,,,,True
+14,,,,"1401 S State St, Chicago, IL",,,,,,,,41.863914--87.626976,,https://photos.zillowstatic.com/fp/ac94832e7508c5c2391c92be07b2dfe1-p_e.jpg,,,,,,,True
+15,,,,"1640 W Division St, Chicago, IL",,,,,,,,41.9036--87.66941,,https://photos.zillowstatic.com/fp/f3a65268d8e6fb778424e62e7a67278c-p_e.jpg,,,,,,,True
+16,,,,"3423 S Cottage Grove Ave, Chicago, IL",,,,,,,,41.832844--87.60949,,https://photos.zillowstatic.com/fp/541061c5fb61056c2a7c42f54288c91a-p_e.jpg,,,,,,,True
+17,,APARTMENT,,"6201 S Michigan Ave, Chicago, IL 60637",-1.0,1400.0,,-87.62165,41.78183,,FOR_RENT,2064112883,,https://photos.zillowstatic.com/fp/abb592d630e522fb49283cdc228ce624-p_e.jpg,1100.0,1.0,,USA,USD,2.0,True
+18,,APARTMENT,,"5026 S Michigan Ave, Chicago, IL 60615",-1.0,1650.0,,-87.62315,41.802994,,FOR_RENT,2064112886,,https://photos.zillowstatic.com/fp/523b4ca7489eaff730b3a16ff0771c01-p_e.jpg,1200.0,2.0,,USA,USD,3.0,True
+19,,,,"1326 S Michigan Ave, Chicago, IL",,,,,,,,41.865047--87.624596,,https://photos.zillowstatic.com/fp/96e97cefa54c792df76c3a662d640826-p_e.jpg,,,,,,,True
+20,,,,"111 W Wacker Dr, Chicago, IL",,,,,,,,41.88651--87.631584,,https://photos.zillowstatic.com/fp/dbd4a01c412fca27073b7b8ef48eaeaf-p_e.jpg,,,,,,,True
+21,,,,"720 S Wells St, Chicago, IL",,,,,,,,41.87291--87.634575,,https://photos.zillowstatic.com/fp/f1ae4d0917f8edbd1a7d50f3b466fd9c-p_e.jpg,,,,,,,True
+22,,,,"727 W Madison St, Chicago, IL",,,,,,,,41.88169--87.647255,,https://photos.zillowstatic.com/fp/acedb8c8ed6da6f7c9eabdca7eed87db-p_e.jpg,,,,,,,True
+23,,,,"765 W Adams St, Chicago, IL",,,,,,,,41.8789--87.6466,,https://photos.zillowstatic.com/fp/2f30f6bba39d0114992df5185ab555b7-p_e.jpg,,,,,,,True
+24,,APARTMENT,,"2246 W Charleston St #1, Chicago, IL 60647",-1.0,2795.0,,-87.68444,41.92013,,FOR_RENT,2093208424,,https://photos.zillowstatic.com/fp/43120203247f9bfed6182efa259d4495-p_e.jpg,1750.0,2.0,,USA,USD,3.0,True
+25,,APARTMENT,,"548 N Wells St #2, Chicago, IL 60654",-1.0,4050.0,,-87.63435,41.892246,,FOR_RENT,2109443848,,https://photos.zillowstatic.com/fp/867ef790536953134d8412a803f08a10-p_e.jpg,1600.0,2.0,,USA,USD,3.0,True
+26,,,,"927 W Irving Park Rd, Chicago, IL",,,,,,,,41.95427--87.65326,,https://photos.zillowstatic.com/fp/897b2f34dac36a36f5b38158fd6d3360-p_e.jpg,,,,,,,True
+27,,,,"313 W Wolf Point Plz, Chicago, IL",,,,,,,,41.887714--87.6369,,https://photos.zillowstatic.com/fp/1940cecaabb3286f8eb4edf90a3be844-p_e.jpg,,,,,,,True
+28,,,,"918 W School St, Chicago, IL",,,,,,,,41.941765--87.65287,,https://photos.zillowstatic.com/fp/9cd47d30850c7696914e840735cb77a9-p_e.jpg,,,,,,,True
+29,,APARTMENT,,"Lincoln 1955 N, 1955 N Lincoln Ave APT 2F, Chicago, IL 60614",-1.0,2695.0,,-87.637856,41.91799,,FOR_RENT,2083699492,,https://photos.zillowstatic.com/fp/0a42d858204f8d1fb1f94b7a82ece8c5-p_e.jpg,750.0,1.0,,USA,USD,1.0,True
+30,,,,"505 N State St, Chicago, IL",,,,,,,,41.891113--87.62754,,https://photos.zillowstatic.com/fp/7c286f599b12fb69764a176b3d8a7de8-p_e.jpg,,,,,,,True
+31,,,,"180 N Jefferson St, Chicago, IL",,,,,,,,41.88547--87.64303,,https://photos.zillowstatic.com/fp/354f9a12f744b084caacb052b1b32b0e-p_e.jpg,,,,,,,True
+32,,,,"600 S Dearborn St, Chicago, IL",,,,,,,,41.874146--87.62947,,https://photos.zillowstatic.com/fp/210ef1c07e7e293fa992e0eb9eb4077e-p_e.jpg,,,,,,,True
+33,,APARTMENT,,"2413 W Taylor St APT 3, Chicago, IL 60612",-1.0,1900.0,,-87.686745,41.869072,,FOR_RENT,2085270419,,https://photos.zillowstatic.com/fp/c08ba9b173f54e3d9b3d2b8b882c9594-p_e.jpg,1350.0,2.0,,USA,USD,3.0,True
+34,,,,"2400 N Lakeview Ave, Chicago, IL",,,,,,,,41.92598--87.63955,,https://photos.zillowstatic.com/fp/70186b145e71468e6d27c8c5790314e3-p_e.jpg,,,,,,,True
+35,,,,"431 S Dearborn St, Chicago, IL",,,,,,,,41.8759--87.62889,,https://photos.zillowstatic.com/fp/3834ddf9f51b63fcff8c9a1491fba25f-p_e.jpg,,,,,,,True
+36,,,,"400 E South Water St, Chicago, IL",,,,,,,,41.886684--87.61676,,https://photos.zillowstatic.com/fp/dc47a3755f7159ccac3ff7bca204514c-p_e.jpg,,,,,,,True
+37,,,,"811 W Agatite Ave, Chicago, IL",,,,,,,,41.9626--87.65076,,https://photos.zillowstatic.com/fp/0bb35bc02519a2f1cdd155d2c17450cf-p_e.jpg,,,,,,,True
+38,,,,"3434-38 N Halsted St, Chicago, IL",,,,,,,,41.941067--87.64931,,https://photos.zillowstatic.com/fp/62c1e7656a59cb7a88eb56d1ffbab7df-p_e.jpg,,,,,,,True
+39,,,,"959 W Webster Ave, Chicago, IL",,,,,,,,41.921623--87.653275,,https://photos.zillowstatic.com/fp/e576baa3261c556ab639cd342da1ddf7-p_e.jpg,,,,,,,True

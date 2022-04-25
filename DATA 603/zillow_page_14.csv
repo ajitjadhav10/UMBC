@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,,,"65 E Scott St, Chicago, IL",,,,,,,,41.904446--87.62619,,https://photos.zillowstatic.com/fp/439ea209d8885b18f6d849c8dc001665-p_e.jpg,,,,,,,True
+1,,APARTMENT,,"1542 W Waveland Ave #1, Chicago, IL 60613",-1.0,2200.0,,-87.66797,41.948967,,FOR_RENT,2101386947,,https://photos.zillowstatic.com/fp/625c0889829c6590ad3f99b5c98b781a-p_e.jpg,800.0,1.0,,USA,USD,2.0,True
+2,,,,"171 N Halsted St, Chicago, IL",,,,,,,,41.88537--87.64719,,https://photos.zillowstatic.com/fp/5be0dd652260b8cab391dd6196c2c7cc-p_e.jpg,,,,,,,True
+3,,,,"5416 S Woodlawn Ave, Chicago, IL",,,,,,,,41.797283--87.597015,,https://photos.zillowstatic.com/fp/4c1112dc767d1a38e8bdf9a71888c7c4-p_e.jpg,,,,,,,True
+4,,APARTMENT,,"3728 N Pine Grove Ave #W2, Chicago, IL 60613",-1.0,1450.0,,-87.64789,41.95029,,FOR_RENT,2064128037,,https://photos.zillowstatic.com/fp/fa383bc0e893755a8df13735eb5a1315-p_e.jpg,,1.0,,USA,USD,1.0,True
+5,,,,"1454 W Randolph St, Chicago, IL",,,,,,,,41.885185--87.66454,,https://photos.zillowstatic.com/fp/29b188041ac2923409a0eb906895ca2e-p_e.jpg,,,,,,,True
+6,,APARTMENT,,"2803-1660 N Lasalle St #2803, Chicago, IL 60614",-1.0,1425.0,,-87.633194,41.91346,,FOR_RENT,2064128312,,https://photos.zillowstatic.com/fp/1e40cc53f086130bf2b791d15fd81589-p_e.jpg,650.0,1.0,,USA,USD,0.0,True
+7,,,,"1331 W Estes Ave, Chicago, IL",,,,,,,,42.011063--87.66418,,https://photos.zillowstatic.com/fp/38fe68d04c44e31452349d87b818b740-p_e.jpg,,,,,,,True
+8,,,,"1 W Superior St, Chicago, IL",,,,,,,,41.895454--87.62893,,https://photos.zillowstatic.com/fp/66ce8d1b199225332d0f2323ca78ded5-p_e.jpg,,,,,,,True
+9,,,,"5300 S Drexel Blvd, Chicago, IL",,,,,,,,41.80228--87.60417,,https://photos.zillowstatic.com/fp/b97ae9102762d25af5b40596c5eadf26-p_e.jpg,,,,,,,True
+10,,APARTMENT,,"3700 N Bosworth Ave #2, Chicago, IL 60613",-1.0,2300.0,,-87.668045,41.94896,,FOR_RENT,2097786160,,https://photos.zillowstatic.com/fp/6f16e851cbfe90c359d8ad8248c2110d-p_e.jpg,1000.0,1.0,,USA,USD,2.0,True
+11,,APARTMENT,,"417 E 113th St #2, Chicago, IL 60628",-1.0,1075.0,,-87.61255,41.688915,,FOR_RENT,2064128930,,https://photos.zillowstatic.com/fp/bad2ac10be43e999124038e7e83c4f83-p_e.jpg,1000.0,1.0,,USA,USD,1.0,True
+12,,APARTMENT,,"647 N Mayfield Ave, 647 N Mayfield Ave #657-3, Chicago, IL 60644",-1.0,1520.0,,-87.77192,41.89258,,FOR_RENT,2080625327,,https://photos.zillowstatic.com/fp/5fa7268b71e5a87c61b5ed71afece371-p_e.jpg,1025.0,1.0,,USA,USD,2.0,True
+13,,APARTMENT,,"1241 W Draper St #1, Chicago, IL 60614",-1.0,3150.0,,-87.66014,41.928074,,FOR_RENT,2079942429,,https://photos.zillowstatic.com/fp/721c28443f9cf63abf2baaed10ea0f73-p_e.jpg,1000.0,2.0,,USA,USD,2.0,True
+14,,APARTMENT,,"1242 W Draper St, Chicago, IL 60614",-1.0,2000.0,,-87.66024,41.928364,,FOR_RENT,2084386455,,https://photos.zillowstatic.com/fp/f2a9df9ef1e3c3a50da893072097236f-p_e.jpg,754.0,1.0,,USA,USD,1.0,True
+15,,,,"1920 N Milwaukee Ave, Chicago, IL",,,,,,,,41.9163--87.68703,,https://photos.zillowstatic.com/fp/c3a3c691322ded454486ec4146625aa4-p_e.jpg,,,,,,,True
+16,,APARTMENT,,"8308 S Ingleside Ave, 8308 S Ingleside Ave APT 2D, Chicago, IL 60619",-1.0,895.0,,-87.6017,41.74375,,FOR_RENT,2110474381,,https://photos.zillowstatic.com/fp/14fd1c182241afa0ecd2c8f653b80e71-p_e.jpg,620.0,1.0,,USA,USD,1.0,True
+17,,APARTMENT,,"The Bernardin, 747 N Wabash Ave APT 2408, Chicago, IL 60611",-1.0,2870.0,,-87.62675,41.89643,,FOR_RENT,2112060536,,https://photos.zillowstatic.com/fp/5055e2f61eb85747bba474e938bd3764-p_e.jpg,858.0,1.0,,USA,USD,1.0,True
+18,,,,"747 N Wabash Ave, Chicago, IL",,,,,,,,41.89636--87.62667,,https://photos.zillowstatic.com/fp/5055e2f61eb85747bba474e938bd3764-p_e.jpg,,,,,,,True
+19,,APARTMENT,,"1647 N. Milwaukee, 1647 N Milwaukee Ave #302, Chicago, IL 60647",-1.0,3167.0,,-87.67876,41.911514,,FOR_RENT,2078467696,,https://photos.zillowstatic.com/fp/769a7450bb5eacc745a6116addad9f82-p_e.jpg,1123.0,2.0,,USA,USD,2.0,True
+20,,APARTMENT,,"Granada, 525 W Arlington Pl, Chicago, IL 60614",-1.0,1295.0,,-87.64243,41.92662,,FOR_RENT,2066753732,,https://photos.zillowstatic.com/fp/6c3c89a8bf88227656a70db169e50cdf-p_e.jpg,550.0,1.0,,USA,USD,0.0,True
+21,,APARTMENT,,"2647 W 23rd Pl UNIT 2, Chicago, IL 60608",-1.0,2000.0,,-87.69231,41.84896,,FOR_RENT,2064129273,,https://photos.zillowstatic.com/fp/8ccd4da39251fb62be2d0aef541c471b-p_e.jpg,1250.0,2.0,,USA,USD,3.0,True
+22,,APARTMENT,,"7102 S Luella, 7102 S Luella Ave APT 204, Chicago, IL 60649",-1.0,775.0,,-87.5705,41.765995,,FOR_RENT,2123588383,,https://photos.zillowstatic.com/fp/191165eb45b24d2e98cd9652ff5f8847-p_e.jpg,400.0,1.0,,USA,USD,0.0,True
+23,,,,"905 N Orleans St, Chicago, IL",,,,,,,,41.89931--87.63698,,https://photos.zillowstatic.com/fp/8bd6b12337d77fd79019b25f349b2be6-p_e.jpg,,,,,,,True
+24,,,,"1825-39 W Foster Ave, Chicago, IL",,,,,,,,41.975945--87.67591,,https://photos.zillowstatic.com/fp/d2059b2c1dee142cd7104ef1b9431d71-p_e.jpg,,,,,,,True
+25,,,,"121 W Chestnut St, Chicago, IL",,,,,,,,41.897766--87.6324,,https://photos.zillowstatic.com/fp/54cef7fc59e460287cf041ac6e1fbca5-p_e.jpg,,,,,,,True
+26,,,,"839 S Wells St, Chicago, IL",,,,,,,,41.871624--87.63337,,https://photos.zillowstatic.com/fp/3d15f8799cddbaf74beeb0fd27a00a0d-p_e.jpg,,,,,,,True
+27,,,,"469 W Huron St, Chicago, IL",,,,,,,,41.894165--87.64065,,https://photos.zillowstatic.com/fp/9e0c00638a1d4a726430f222f83e5fdc-p_e.jpg,,,,,,,True
+28,,,,"5034-5046 S Woodlawn Ave, Chicago, IL",,,,,,,,41.802994--87.59738,,https://photos.zillowstatic.com/fp/715fc928113c21132abc9331dc2ff683-p_e.jpg,,,,,,,True
+29,,,,"922 W Washington Blvd, Chicago, IL",,,,,,,,41.883347--87.650566,,https://photos.zillowstatic.com/fp/b4e77dccd1b1d23b70ad83f50dcf7657-p_e.jpg,,,,,,,True
+30,,APARTMENT,,"2350-52 W. Ohio St. / 601 N. Western Ave., 2350 W Ohio St #2352-3, Chicago, IL 60612",-1.0,1650.0,,-87.68645,41.892223,,FOR_RENT,2080370398,,https://photos.zillowstatic.com/fp/b3ef05b44d225c2ffac78271449bc7a6-p_e.jpg,,1.0,,USA,USD,2.0,True
+31,,APARTMENT,,"5836-46 W Madison St, 5836 W Madison St #13-302, Chicago, IL 60644",-1.0,1140.0,,-87.771454,41.88049,,FOR_RENT,2065588056,,https://photos.zillowstatic.com/fp/252b7e4662ebe48686054841c2416440-p_e.jpg,550.0,1.0,,USA,USD,1.0,True
+32,,APARTMENT,,"The Belmont by Reside Flats, 425 W Belmont Ave #712B, Chicago, IL 60657",-1.0,2235.0,,-87.640656,41.9399,,FOR_RENT,2065433837,,https://photos.zillowstatic.com/fp/6a23e45326cd0f5ab7b2fc84c0605b9c-p_e.jpg,680.0,1.0,,USA,USD,1.0,True
+33,,APARTMENT,,"1049 N. Leavitt St., 1049 N Leavitt St #G, Chicago, IL 60622",-1.0,2595.0,,-87.68182,41.900883,,FOR_RENT,2071510955,,https://photos.zillowstatic.com/fp/109030a33004166f43a36143006f5780-p_e.jpg,,2.0,,USA,USD,2.0,True
+34,,,,"211 W Scott St, Chicago, IL",,,,,,,,41.90467--87.63509,,https://photos.zillowstatic.com/fp/1b10f6014ff883b958b77c7badda04f9-p_e.jpg,,,,,,,True
+35,,APARTMENT,3792.0,"2322 W Augusta Blvd #2A, Chicago, IL 60622",-1.0,2600.0,,-87.685455,41.899662,,FOR_RENT,80824011,,https://photos.zillowstatic.com/fp/1f2bfd98e5b3989519861c4959a830c4-p_e.jpg,1300.0,2.0,sqft,USA,USD,2.0,True
+36,,,,"6710 N Sheridan Rd, Chicago, IL",,,,,,,,42.00395--87.661285,,https://photos.zillowstatic.com/fp/5aeef771610cdad8e41a10a1f1a341c9-p_e.jpg,,,,,,,True
+37,,,,"1350 N Wells St, Chicago, IL",,,,,,,,41.907097--87.63569,,https://photos.zillowstatic.com/fp/f010f7c1d8f5c458b36d1becaa1a0ae7-p_e.jpg,,,,,,,True
+38,,APARTMENT,,"5507-5509 S. Hyde Park Boulevard, 5507 S Hyde Park Blvd #5509-1S, Chicago, IL 60637",-1.0,3800.0,,-87.58351,41.794918,,FOR_RENT,2065530095,,https://photos.zillowstatic.com/fp/b026fb28db372ea307d9ee569d60b231-p_e.jpg,1864.0,4.0,,USA,USD,4.0,True
+39,,,,"739 N Ada St, Chicago, IL",,,,,,,,41.895668--87.661095,,https://photos.zillowstatic.com/fp/0d34174df84f3a0465721a06bb60ea18-p_e.jpg,,,,,,,True

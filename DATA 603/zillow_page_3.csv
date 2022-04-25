@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,,,"220 E Illinois St, Chicago, IL",,,,,,,,41.891125--87.62142,,https://photos.zillowstatic.com/fp/3407cb4786204e42e5e73e65b640ee96-p_e.jpg,,,,,,,True
+1,,APARTMENT,,"5437-47 S. Harper Ave., 5437-47 S Harper Ave #54472, Chicago, IL 60615",-1.0,2395.0,,-87.58889,41.796997,,FOR_RENT,2067985285,,https://photos.zillowstatic.com/fp/30bd066a383716659d44af9beca8f083-p_e.jpg,,2.0,,USA,USD,3.0,True
+2,,,,"1135 W Sheridan Rd, Chicago, IL",,,,,,,,41.99806--87.660065,,https://photos.zillowstatic.com/fp/bb8e545f947adc5172be44dbcf383480-p_e.jpg,,,,,,,True
+3,,,,"445 E Ohio St, Chicago, IL",,,,,,,,41.892284--87.616295,,https://photos.zillowstatic.com/fp/0de73869e3bb54a0a59c3d6bda1a7d0c-p_e.jpg,,,,,,,True
+4,,,,"2555 N Clark St, Chicago, IL",,,,,,,,41.929752--87.642235,,https://photos.zillowstatic.com/fp/da71e44f5ae3ec16b1991ffeafda36c2-p_e.jpg,,,,,,,True
+5,,,,"400 N McClurg Ct, Chicago, IL",,,,,,,,41.88913--87.61802,,https://photos.zillowstatic.com/fp/6c7d1b9fb9ec80e712a3a67068f6a94f-p_e.jpg,,,,,,,True
+6,,,,"601 W Jackson Blvd, Chicago, IL",,,,,,,,41.87773--87.64295,,https://photos.zillowstatic.com/fp/aca83bdf7ef60c1b8ea72cf37046c308-p_e.jpg,,,,,,,True
+7,,,,"5631-39 S Kenwood Ave, Chicago, IL",,,,,,,,41.792305--87.59297,,https://photos.zillowstatic.com/fp/0990d39c307495a1adbc8a4670765f70-p_e.jpg,,,,,,,True
+8,,,,"2851 S King Dr, Chicago, IL",,,,,,,,41.842754--87.616425,,https://photos.zillowstatic.com/fp/8da46e937ed16caa674ecbe986d4f82f-p_e.jpg,,,,,,,True
+9,,,,"1140 S Wabash Ave, Chicago, IL",,,,,,,,41.867912--87.62589,,https://photos.zillowstatic.com/fp/4a2d7a3ae8afe0cedf22c4d01790c267-p_e.jpg,,,,,,,True
+10,,APARTMENT,,"Reside on Jackson, 1245 W Jackson Blvd #2-0309, Chicago, IL 60607",-1.0,2790.0,,-87.658134,41.877636,,FOR_RENT,2078398474,,https://photos.zillowstatic.com/fp/b771e2b1371766809efa6462a9dbc8ae-p_e.jpg,1031.0,2.0,,USA,USD,2.0,True
+11,,,,"221 W Hubbard St, Chicago, IL",,,,,,,,41.889797--87.634796,,https://photos.zillowstatic.com/fp/28eb9de982706cbdb49650c12f2dba1e-p_e.jpg,,,,,,,True
+12,,,,"5552 N Lakewood Ave, Chicago, IL",,,,,,,,41.983265--87.662834,,https://photos.zillowstatic.com/fp/126b1c404d8d94aa7a01489e1337be09-p_e.jpg,,,,,,,True
+13,,,,"530 W Arlington Pl, Chicago, IL",,,,,,,,41.92704--87.64247,,https://photos.zillowstatic.com/fp/0ff83a7cc8d9ef5e6f5ebbd02df41f56-p_e.jpg,,,,,,,True
+14,,,,"544 W Briar Pl, Chicago, IL",,,,,,,,41.938957--87.64387,,https://photos.zillowstatic.com/fp/bb96370e2275487b765aa85bf34830e7-p_e.jpg,,,,,,,True
+15,,APARTMENT,,"532-34 W. Grant Pl., 532 W Grant Pl #5343, Chicago, IL 60614",-1.0,1450.0,,-87.64274,41.923065,,FOR_RENT,2072097427,,https://photos.zillowstatic.com/fp/e24ab3d93ac87c77e42b84207ff2f3e4-p_e.jpg,604.0,1.0,,USA,USD,1.0,True
+16,,,,"727 W Briar Pl, Chicago, IL",,,,,,,,41.93892--87.647896,,https://photos.zillowstatic.com/fp/e3a440f9b6ce94f91fff1ade16e5940f-p_e.jpg,,,,,,,True
+17,,APARTMENT,,"8935-39 S Dauphin Ave, 8935 S Dauphin Ave #2N, Chicago, IL 60619",-1.0,1115.0,,-87.60202,41.73179,,FOR_RENT,2065850589,,https://photos.zillowstatic.com/fp/7be643d4e5143ee38b0f04458e1839fa-p_e.jpg,646.0,1.0,,USA,USD,1.0,True
+18,,APARTMENT,,"10649 S Hale Ave #3B, Chicago, IL 60643",-1.0,1395.0,,-87.66899,41.699566,,FOR_RENT,2064116002,,https://photos.zillowstatic.com/fp/4dc2570387737ce87aa896de2cb21c61-p_e.jpg,,1.0,,USA,USD,2.0,True
+19,,,,"2231 E 67th St, Chicago, IL",,,,,,,,41.772957--87.570435,,https://photos.zillowstatic.com/fp/7e43c527c5ef63406f1bf8e68d1bee0b-p_e.jpg,,,,,,,True
+20,,,,"175 N Harbor Dr, Chicago, IL",,,,,,,,41.885437--87.61547,,https://photos.zillowstatic.com/fp/90392a7f99eeeb5bdff1cc01f1ca2e2a-p_e.jpg,,,,,,,True
+21,,,,"1212 S Michigan Ave, Chicago, IL",,,,,,,,41.867043--87.62465,,https://photos.zillowstatic.com/fp/80f13f7a9d6084d8e7dd742d5ab2d8e9-p_e.jpg,,,,,,,True
+22,,,,"555 W Madison St, Chicago, IL",,,,,,,,41.88094--87.64239,,https://photos.zillowstatic.com/fp/77e6172847cd2383e51998eb19026a0f-p_e.jpg,,,,,,,True
+23,,,,"320 W Illinois St, Chicago, IL",,,,,,,,41.890926--87.63665,,https://photos.zillowstatic.com/fp/352cc1e85f01f2bc7c50d0b0170ff9a5-p_e.jpg,,,,,,,True
+24,,,,"540 N State St, Chicago, IL",,,,,,,,41.89189--87.628334,,https://photos.zillowstatic.com/fp/6201dc4c16fdb4f23f30f52760bf3745-p_e.jpg,,,,,,,True
+25,,APARTMENT,,"GRAND PLAZA, 540 N State St APT 1701, Chicago, IL 60654",-1.0,3551.0,,-87.62817,41.89146,,FOR_RENT,2112016281,,https://photos.zillowstatic.com/fp/6201dc4c16fdb4f23f30f52760bf3745-p_e.jpg,1325.0,2.0,,USA,USD,2.0,True
+26,,,,"1130 S Michigan Ave, Chicago, IL",,,,,,,,41.86853--87.62471,,https://photos.zillowstatic.com/fp/d78d77490117e29a035dce421e21c7cf-p_e.jpg,,,,,,,True
+27,,,,"1001 S State St, Chicago, IL",,,,,,,,41.869873--87.62704,,https://photos.zillowstatic.com/fp/6413f1409d3c90ebe04c452336bf08d0-p_e.jpg,,,,,,,True
+28,,,,"3233 S King Dr, Chicago, IL",,,,,,,,41.83598--87.6174,,https://photos.zillowstatic.com/fp/055608813e9d2adc2a0a6f757ea5f021-p_e.jpg,,,,,,,True
+29,,,,"1350 N Lake Shore Dr, Chicago, IL",,,,,,,,41.90702--87.626816,,https://photos.zillowstatic.com/fp/ab9d973ad83093b0d49683b1f8a52dc4-p_e.jpg,,,,,,,True
+30,,,,"4334 N Hazel St, Chicago, IL",,,,,,,,41.96147--87.652626,,https://photos.zillowstatic.com/fp/f9834c061506fb8f4b4c1e2826ba9fc5-p_e.jpg,,,,,,,True
+31,,,,"801 S Financial Pl, Chicago, IL",,,,,,,,41.87182--87.63264,,https://photos.zillowstatic.com/fp/b965f5f9d8ee8874f27df855eb8221aa-p_e.jpg,,,,,,,True
+32,,,,"2701 S Indiana Ave, Chicago, IL",,,,,,,,41.844006--87.62091,,https://photos.zillowstatic.com/fp/6600fdae6978db9a9f81b579be3fa458-p_e.jpg,,,,,,,True
+33,,,,"1164 W Madison St, Chicago, IL",,,,,,,,41.88182--87.65703,,https://photos.zillowstatic.com/fp/69d95f677949149d30760ba1f4be0b5b-p_e.jpg,,,,,,,True
+34,,APARTMENT,,"7700 S Kingston Ave, 7700 S Kingston Ave #7708-3W, Chicago, IL 60649",-1.0,1050.0,,-87.56299,41.755146,,FOR_RENT,2064116355,,https://photos.zillowstatic.com/fp/ec0552949a11b6954a2fe14d1c147e0b-p_e.jpg,750.0,1.0,,USA,USD,2.0,True
+35,,,,"8640 S Ingleside Ave, Chicago, IL",,,,,,,,41.737213--87.601425,,https://photos.zillowstatic.com/fp/6e6102ed42fbae88403e4aee5a7142bd-p_e.jpg,,,,,,,True
+36,,APARTMENT,,"10908 S Vernon, 10908 S Vernon Ave APT 1N, Chicago, IL 60628",-1.0,1415.0,,-87.612595,41.69598,,FOR_RENT,2073810306,,https://photos.zillowstatic.com/fp/1d98cb9ffa7d709b9eafa976ecbb4fd3-p_e.jpg,1100.0,1.0,,USA,USD,2.0,True
+37,,,,"2 E 8th St, Chicago, IL",,,,,,,,41.87197--87.626884,,https://photos.zillowstatic.com/fp/91e9860a986f65ec76bec855a84fcc61-p_e.jpg,,,,,,,True
+38,,APARTMENT,10048.0,"4616 N Kenmore Ave APT 206, Chicago, IL 60640",-1.0,2500.0,,-87.65651,41.966064,,FOR_RENT,87723565,,https://photos.zillowstatic.com/fp/04bb36d11bace95eaea1872d8b256477-p_e.jpg,1061.0,2.0,sqft,USA,USD,2.0,True
+39,,,,"5960 N Winthrop Ave, Chicago, IL",,,,,,,,41.9909--87.65851,,https://photos.zillowstatic.com/fp/8743073a88ba1b13d2a1dfdd229eec42-p_e.jpg,,,,,,,True

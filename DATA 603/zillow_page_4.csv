@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,,,"4742 S Woodlawn Ave, Chicago, IL",,,,,,,,41.80834--87.59739,,https://photos.zillowstatic.com/fp/8af5066f5faf08c1919ed019761a1e79-p_e.jpg,,,,,,,True
+1,,,,"707 W Sheridan Rd, Chicago, IL",,,,,,,,41.9525--87.64836,,https://photos.zillowstatic.com/fp/0ec53d3e94e1a90b8d2f93cff0f1c8f8-p_e.jpg,,,,,,,True
+2,,,,"222 W Erie St, Chicago, IL",,,,,,,,41.89422--87.63548,,https://photos.zillowstatic.com/fp/e8853198e1a99247ee350655876f405a-p_e.jpg,,,,,,,True
+3,,APARTMENT,,"3638-44 N Harlem - 3638-202, 3638 N Harlem Ave UNIT 202, Chicago, IL 60634",-1.0,1975.0,,-87.80737,41.94652,,FOR_RENT,2064116594,,https://photos.zillowstatic.com/fp/1e7ac8e38f3cce9515b9b1d7ea9707a2-p_e.jpg,1420.0,2.0,,USA,USD,2.0,True
+4,,,,"520 N Kingsbury St, Chicago, IL",,,,,,,,41.891136--87.64022,,https://photos.zillowstatic.com/fp/67323639782fe0aadd4936b39b0480ad-p_e.jpg,,,,,,,True
+5,,,,"541 W Oakdale Ave, Chicago, IL",,,,,,,,41.935158--87.643456,,https://photos.zillowstatic.com/fp/d2957d2381b2e592997a3f93e71befeb-p_e.jpg,,,,,,,True
+6,,,,"6040 N Sheridan Rd, Chicago, IL",,,,,,,,41.992115--87.65586,,https://photos.zillowstatic.com/fp/0ca227eec990700adc9d42e71ba656c8-p_e.jpg,,,,,,,True
+7,,APARTMENT,,"2413 W Taylor St #1, Chicago, IL 60612",-1.0,1800.0,,-87.68676,41.86907,,FOR_RENT,2079042859,,https://photos.zillowstatic.com/fp/c08ba9b173f54e3d9b3d2b8b882c9594-p_e.jpg,1350.0,2.0,,USA,USD,3.0,True
+8,,,,"6171 N Sheridan Rd, Chicago, IL",,,,,,,,41.994236--87.65531,,https://photos.zillowstatic.com/fp/e6488f4e66081c73e3c1ea11e84d607d-p_e.jpg,,,,,,,True
+9,,,,"2710 N Wayne Ave, Chicago, IL",,,,,,,,41.931084--87.66263,,https://photos.zillowstatic.com/fp/a9b470d9ca4e6e1042d476834ecd2170-p_e.jpg,,,,,,,True
+10,,APARTMENT,,"(undisclosed Address), Chicago, IL 60645",-1.0,1150.0,,,,,FOR_RENT,2064117954,,https://photos.zillowstatic.com/fp/88945380525a86fbea511d2d898239c5-p_e.jpg,900.0,1.0,,USA,USD,1.0,True
+11,,,,"11021 S Artesian Ave, Chicago, IL",,,,,,,,41.69941--87.66222,,https://photos.zillowstatic.com/fp/ee7f4580c72a5b8ec2b40645df82917d-p_e.jpg,,,,,,,True
+12,,APARTMENT,,"1353 W Bryn Mawr Ave #1E, Chicago, IL 60660",-1.0,3900.0,,-87.664604,41.983414,,FOR_RENT,2101744992,,https://photos.zillowstatic.com/fp/b6e96b7d87d34daf40a56c2672977674-p_e.jpg,2000.0,3.0,,USA,USD,4.0,True
+13,,APARTMENT,,"1416 W Arthur Ave APT 3, Chicago, IL 60626",-1.0,1600.0,,-87.66643,42.00019,,FOR_RENT,2071679259,,https://photos.zillowstatic.com/fp/4d1ec523bea66ac0c7928d4473bfbde9-p_e.jpg,,1.0,,USA,USD,2.0,True
+14,,APARTMENT,,"705 S Lawndale Ave, 705 S Lawndale Ave #711-3, Chicago, IL 60624",-1.0,1200.0,,-87.71778,41.872368,,FOR_RENT,2077073800,,https://photos.zillowstatic.com/fp/0ae90575695fcf0ab95c18f338bbed31-p_e.jpg,661.0,1.0,,USA,USD,2.0,True
+15,,APARTMENT,,"813-31 West Waveland, 813 W Waveland Ave APT 1S, Chicago, IL 60613",-1.0,1595.0,,-87.65062,41.948795,,FOR_RENT,2064129122,,https://photos.zillowstatic.com/fp/1f3e93402cc84c527fa6a9e144f44e45-p_e.jpg,,1.0,,USA,USD,1.0,True
+16,,,,"3757 N Sheffield Ave, Chicago, IL",,,,,,,,41.95071--87.65406,,https://photos.zillowstatic.com/fp/f24066c8a4c4219bdc133cff9ae09ce7-p_e.jpg,,,,,,,True
+17,,APARTMENT,,"330 N Pine, 330 N Pine Ave #5505-1W, Chicago, IL 60644",-1.0,1105.0,,-87.7639,41.88707,,FOR_RENT,2065617813,,https://photos.zillowstatic.com/fp/309f75eae198ca133650be481753bc0d-p_e.jpg,555.0,1.0,,USA,USD,1.0,True
+18,,APARTMENT,,"701-715 West Brompton, 701 W Brompton Ave, Chicago, IL 60657",-1.0,1695.0,,-87.64686,41.946384,,FOR_RENT,2064140470,,https://photos.zillowstatic.com/fp/4bae6abc068b5346683f038e29ac56dd-p_e.jpg,,1.0,,USA,USD,1.0,True
+19,,APARTMENT,,"St. Paul and Western Lofts, 1741 N Western Ave #25, Chicago, IL 60647",-1.0,2658.0,,-87.686905,41.91336,,FOR_RENT,2066651174,,https://photos.zillowstatic.com/fp/56cde0d3b61c804b4a9db97bc7dcac41-p_e.jpg,,1.0,,USA,USD,2.0,True
+20,,,,"210 N Wls, Chicago, IL",,,,,,,,41.88608--87.634224,,https://photos.zillowstatic.com/fp/ccdbbc2ff29d1438d1c64b5abe353896-p_e.jpg,,,,,,,True
+21,,APARTMENT,,"8222-32 S Ingleside Ave, 8222 S Ingleside Ave #8230-3W, Chicago, IL 60619",-1.0,940.0,,-87.60188,41.745064,,FOR_RENT,2065678549,,https://photos.zillowstatic.com/fp/e3c19673e2c30ac37b41d87308dc02ec-p_e.jpg,650.0,1.0,,USA,USD,1.0,True
+22,,,,"4157 N Clarendon Ave, Chicago, IL",,,,,,,,41.95764--87.64949,,https://photos.zillowstatic.com/fp/296d59820168ba7171a5f9081b6ce490-p_e.jpg,,,,,,,True
+23,,APARTMENT,,"5658 N Ridge Ave, 5658 N Ridge Ave #G1S, Chicago, IL 60660",-1.0,2430.0,,-87.66237,41.98453,,FOR_RENT,2071519585,,https://photos.zillowstatic.com/fp/b0243175f1723936d8dd45b6d0222af8-p_e.jpg,700.0,1.0,,USA,USD,1.0,True
+24,,,,"6401 N Sheridan Rd, Chicago, IL",,,,,,,,41.998703--87.65988,,https://photos.zillowstatic.com/fp/056eb05e8bd772f4caf43a196c7f0aee-p_e.jpg,,,,,,,True
+25,,,,"817 W Lakeside Pl, Chicago, IL",,,,,,,,41.968002--87.6508,,https://photos.zillowstatic.com/fp/38fba5a292e79e44a6991b916c2913ad-p_e.jpg,,,,,,,True
+26,,APARTMENT,,"7400 S Yates, 7400 S Yates Blvd #7400-2, Chicago, IL 60649",-1.0,1040.0,,-87.56676,41.760616,,FOR_RENT,2080930530,,https://photos.zillowstatic.com/fp/25d49a3e35736ce53852fbf77eb6996f-p_e.jpg,775.0,1.0,,USA,USD,1.0,True
+27,,,,"731 S Plymouth Ct, Chicago, IL",,,,,,,,41.872547--87.62837,,https://photos.zillowstatic.com/fp/d5c1b6886a0e09186136297fa57531a6-p_e.jpg,,,,,,,True
+28,,APARTMENT,,"4553 N Sheridan Rd #903, Chicago, IL 60640",-1.0,1733.0,,-87.65478,41.964916,,FOR_RENT,2064119502,,https://photos.zillowstatic.com/fp/342f4733cd553d0e6b7ef23de2b03f4f-p_e.jpg,584.0,1.0,,USA,USD,1.0,True
+29,,APARTMENT,,"Coast at Lakeshore East, 345 E Wacker Dr UNIT 4601, Chicago, IL 60601",-1.0,12666.0,,-87.62062,41.88781,,FOR_RENT,2112061184,,https://photos.zillowstatic.com/fp/731e523fda9d1af98922bee48b05fb3b-p_e.jpg,2766.0,2.5,,USA,USD,3.0,True
+30,,,,"345 E Wacker Dr, Chicago, IL",,,,,,,,41.887234--87.61864,,https://photos.zillowstatic.com/fp/731e523fda9d1af98922bee48b05fb3b-p_e.jpg,,,,,,,True
+31,,,,"820 S Michigan Ave, Chicago, IL",,,,,,,,41.87116--87.62474,,https://photos.zillowstatic.com/fp/cbaa4fab70b04bf9d876c6efc10f4033-p_e.jpg,,,,,,,True
+32,,APARTMENT,,"1741 W Nelson St #1, Chicago, IL 60657",-1.0,2450.0,,-87.6726,41.93665,,FOR_RENT,2126493108,,https://photos.zillowstatic.com/fp/ebcb017407f0df2e5d2fe14ec2a024a7-p_e.jpg,1400.0,2.0,,USA,USD,2.0,True
+33,,,,"1100 N La Salle Dr, Chicago, IL",,,,,,,,41.902065--87.63331,,https://photos.zillowstatic.com/fp/5ea8f0ad0a367f9e442aa87203faab49-p_e.jpg,,,,,,,True
+34,,APARTMENT,,"180 N Wabash Ave FLOOR 16-ID167, Chicago, IL 60601",-1.0,2680.0,,-87.626686,41.88543,,FOR_RENT,2072157442,,https://photos.zillowstatic.com/fp/f4a7d469b7383148a0e40a31fab6f470-p_e.jpg,735.0,1.0,,USA,USD,1.0,True
+35,,APARTMENT,,"550 W Division St FLOOR 15-ID578, Chicago, IL 60610",-1.0,2810.0,,-87.642654,41.903748,,FOR_RENT,2064119511,,https://photos.zillowstatic.com/fp/3e000cd6761c3fe128ccca26099625db-p_e.jpg,656.0,1.0,,USA,USD,1.0,True
+36,,,,"5120 S Harper Ave, Chicago, IL",,,,,,,,41.801617--87.58954,,https://photos.zillowstatic.com/fp/5366002eb7c9d0ce5d908c71b1f3a51a-p_e.jpg,,,,,,,True
+37,,APARTMENT,,"(undisclosed Address), Chicago, IL 60626",-1.0,1800.0,,,,,FOR_RENT,2064119534,,https://photos.zillowstatic.com/fp/911e75aa0ff01955805c7c1a56764542-p_e.jpg,,1.0,,USA,USD,2.0,True
+38,,APARTMENT,,"(undisclosed Address), Chicago, IL 60626",-1.0,1250.0,,,,,FOR_RENT,2105453340,,https://photos.zillowstatic.com/fp/5cffc2772da82b5e72a1c0f2135eedc6-p_e.jpg,900.0,1.0,,USA,USD,1.0,True
+39,,APARTMENT,,"(undisclosed Address), Chicago, IL 60640",-1.0,1250.0,,,,,FOR_RENT,2108843368,,https://photos.zillowstatic.com/fp/79f0d5a7bb1218b797b8fbde96fcb3f2-p_e.jpg,900.0,1.0,,USA,USD,1.0,True
