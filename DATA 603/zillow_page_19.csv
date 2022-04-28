@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,APARTMENT,,"10979-85 S Church Street, 10979 S Church St #10985-2D, Chicago, IL 60643",-1,1100,,-87.6635,41.693485,,FOR_RENT,2064138406,,https://photos.zillowstatic.com/fp/2c6f75d5b056b4da07774f43a8cf6d8c-p_e.jpg,,1,,USA,USD,1,TRUE
+1,,,,"2104 W Birchwood Ave, Chicago, IL",,,,,,,,42.01808--87.68319,,https://photos.zillowstatic.com/fp/1b4f2de67cd17d29af611aa2594ab7b2-p_e.jpg,,,,,,,TRUE
+2,,,,"1401 W 80th St, Chicago, IL",,,,,,,,41.748463--87.65878,,https://photos.zillowstatic.com/fp/67832f4dcd1127155e25cee4ac2db963-p_e.jpg,,,,,,,TRUE
+3,,APARTMENT,,"1935 N Wood St #G, Chicago, IL 60622",-1,2600,,-87.67238,41.917084,,FOR_RENT,2106887295,,https://photos.zillowstatic.com/fp/411c6fd5ae8d9bc5df6b702d815841b4-p_e.jpg,1400,1.5,,USA,USD,3,TRUE
+4,,,,"3511 N Western Ave, Chicago, IL",,,,,,,,41.94529--87.687836,,https://photos.zillowstatic.com/fp/44afa4dd6ef082ca38cdb7ab835a9f46-p_e.jpg,,,,,,,TRUE
+5,,,,"4412 N Saint Louis Ave, Chicago, IL",,,,,,,,41.96169--87.71601,,https://photos.zillowstatic.com/fp/85df6753db921cbecb8ea3132f240bac-p_e.jpg,,,,,,,TRUE
+6,,APARTMENT,,"1756 W North Ave APT 2F, Chicago, IL 60622",-1,2300,,-87.67242,41.910755,,FOR_RENT,2098333970,,https://photos.zillowstatic.com/fp/d2e7deceec978dbdd691f99908c0c15f-p_e.jpg,,1,,USA,USD,1,TRUE
+7,,,,"4747-59 N Ashland Ave, Chicago, IL",,,,,,,,41.96855--87.669044,,https://photos.zillowstatic.com/fp/ca54aaea7e8f8e579bb22789941411db-p_e.jpg,,,,,,,TRUE
+8,,APARTMENT,,"1758 W North Ave APT 3R, Chicago, IL 60622",-1,3100,,-87.672424,41.91075,,FOR_RENT,2085348857,,https://photos.zillowstatic.com/fp/d2e7deceec978dbdd691f99908c0c15f-p_e.jpg,,2,,USA,USD,3,TRUE
+9,,,,"450 W Belmont Ave, Chicago, IL",,,,,,,,41.94041--87.641495,,https://photos.zillowstatic.com/fp/8a09b525a6ef93b8c32f5631b50f695e-p_e.jpg,,,,,,,TRUE
+10,,,,"630 W Lake St, Chicago, IL",,,,,,,,41.885933--87.64366,,https://photos.zillowstatic.com/fp/29f2e6f2eb5cf6446e24afaf3e8492b1-p_e.jpg,,,,,,,TRUE
+11,,APARTMENT,,"6565 N Glenwood Ave #1N, Chicago, IL 60626",-1,2400,,-87.66523,42.001972,,FOR_RENT,2065563328,,https://photos.zillowstatic.com/fp/0a75ab20fae43cf884571eac5dcb208b-p_e.jpg,,1,,USA,USD,4,TRUE
+12,,APARTMENT,,"1221 W. Melrose St., 1221 W Melrose St #1R, Chicago, IL 60657",-1,1495,,-87.65982,41.940464,,FOR_RENT,2079496768,,https://photos.zillowstatic.com/fp/3198a2ff94a6728c9e7630bb7f9c1175-p_e.jpg,,1,,USA,USD,2,TRUE
+13,,,,"1545 W North Ave, Chicago, IL",,,,,,,,41.91041--87.66691,,https://photos.zillowstatic.com/fp/e9dc983c1acc6f8bf1c40039ed539cb9-p_e.jpg,,,,,,,TRUE
+14,,,,"3545 W Cortland St, Chicago, IL",,,,,,,,41.915405--87.7148,,https://photos.zillowstatic.com/fp/f1337dc65d1bdc4b4d845eb720d65216-p_e.jpg,,,,,,,TRUE
+15,,APARTMENT,,"1101-03 N. Mozart St. / 2816-18 W. Thomas St., 1101 N Mozart St APT 2, Chicago, IL 60622",-1,1595,,-87.69773,41.901268,,FOR_RENT,2093514943,,https://photos.zillowstatic.com/fp/e494509b0eef23dfd63bc85c6da39e2a-p_e.jpg,1500,1,,USA,USD,2,TRUE
+16,,,,"1900 S Clark St, Chicago, IL",,,,,,,,41.8563--87.63057,,https://photos.zillowstatic.com/fp/d47e22701d56a3f851336c9d6e379fbc-p_e.jpg,,,,,,,TRUE
+17,,APARTMENT,,"1428 W Cullerton - 1E, 1428 W Cullerton St, Chicago, IL 60608",-1,1500,,-87.66247,41.855312,,FOR_RENT,2064139585,,https://photos.zillowstatic.com/fp/fa0f8e92ff8c7148dd793d98a7fb3e0e-p_e.jpg,750,1,,USA,USD,2,TRUE
+18,,APARTMENT,,"937 W Newport Ave #3, Chicago, IL 60657",-1,2400,,-87.6533,41.944206,,FOR_RENT,2114033973,,https://photos.zillowstatic.com/fp/e5a99ef74ef1682ba40c8ab7faf585d0-p_e.jpg,1400,2,,USA,USD,3,TRUE
+19,,APARTMENT,,"4400-10 N. Ashland Ave. / 1600-10 W. Montrose Ave., 4400 N Ashland Ave #4406-03, Chicago, IL 60640",-1,1150,,-87.66975,41.961895,,FOR_RENT,2066667689,,https://photos.zillowstatic.com/fp/5e58b96d44f9ec32c6034ccf3c4ab066-p_e.jpg,,1,,USA,USD,0,TRUE
+20,,APARTMENT,,"2855-57 W. Belmont Ave., 2855-2857 W Belmont Ave #3149-2, Chicago, IL 60618",-1,1695,,-87.700035,41.93925,,FOR_RENT,2066548128,,https://photos.zillowstatic.com/fp/aa503b19c8777caa55c7d52f26da5e00-p_e.jpg,,1,,USA,USD,2,TRUE
+21,,,,"2600 W Logan Blvd, Chicago, IL",,,,,,,,41.929066--87.69283,,https://photos.zillowstatic.com/fp/3430bf715cc2c19cff5ddd4b77b0adf2-p_e.jpg,,,,,,,TRUE
+22,,,,"4750 N Clarendon Ave, Chicago, IL",,,,,,,,41.96893--87.650406,,https://photos.zillowstatic.com/fp/5053a7b8bdf265b5a799c3ec1eebda0d-p_e.jpg,,,,,,,TRUE
+23,,,,"512 N McClurg Ct, Chicago, IL",,,,,,,,41.891663--87.61805,,https://photos.zillowstatic.com/fp/84301342938ea56538d9ab023f9d2171-p_e.jpg,,,,,,,TRUE
+24,,APARTMENT,,"The Ainslie, 1502 W Ainslie St #303, Chicago, IL 60640",-1,2800,,-87.667946,41.97188,,FOR_RENT,2071939020,,https://photos.zillowstatic.com/fp/595d1d9a2b2332719fae8b893f6fcdf0-p_e.jpg,1050,2,,USA,USD,2,TRUE
+25,,APARTMENT,,"8135 S Evans Ave. - 1, 8135 S Evans Ave APT 1, Chicago, IL 60619",-1,1020,,-87.605965,41.74658,,FOR_RENT,2085737474,,https://photos.zillowstatic.com/fp/2d27fe46c595ccfc10cf522b1d9a6b7c-p_e.jpg,,1,,USA,USD,3,TRUE
+26,,SINGLE_FAMILY,3920,"7829 S Ingleside Ave, Chicago, IL 60619",-1,1500,,-87.60122,41.752243,,FOR_RENT,4004374,,https://photos.zillowstatic.com/fp/097ef23cd523beaf6d2bcccb5ad58e95-p_e.jpg,840,2,sqft,USA,USD,3,TRUE
+27,,SINGLE_FAMILY,9504,"(undisclosed Address), Chicago, IL 60620",-1,1750,,,,,FOR_RENT,4118108,,https://photos.zillowstatic.com/fp/3b400994891e8e9b9ed61d26907b1408-p_e.jpg,1006,2,sqft,USA,USD,5,TRUE
+28,,,,"3250 N Lakewood Ave, Chicago, IL",,,,,,,,41.941254--87.66178,,https://photos.zillowstatic.com/fp/e0be0c399b5af5e494ea374370910806-p_e.jpg,,,,,,,TRUE
+29,,,,"3522 N Broadway, Chicago, IL",,,,,,,,41.942207--87.64448,,https://photos.zillowstatic.com/fp/5c96694ddbb941535a42d7e451fcc7aa-p_e.jpg,,,,,,,TRUE
+30,,APARTMENT,,"4132 N Sheridan Rd APT 3W, Chicago, IL 60613",-1,995,,-87.6548,41.9572,,FOR_RENT,2120989857,,https://photos.zillowstatic.com/fp/7ca50b8ba8582cb7bfcfc3f5d9205448-p_e.jpg,420,1,,USA,USD,0,TRUE
+31,,APARTMENT,,"2510 N Southport Ave #1, Chicago, IL 60614",-1,4800,,-87.66375,41.927418,,FOR_RENT,2099154921,,https://photos.zillowstatic.com/fp/fce892e662b282f3670225163f75dc99-p_e.jpg,2285,3,,USA,USD,4,TRUE
+32,,APARTMENT,,"Webster House, 2150 N Lincoln Park W APT 1311, Chicago, IL 60614",-1,2300,,-87.63681,41.921745,,FOR_RENT,2127074573,,https://photos.zillowstatic.com/fp/cecc4d5e037552a500630a4addac8408-p_e.jpg,775,1,,USA,USD,1,TRUE
+33,,APARTMENT,,"2519 N Lincoln Ave APT A4, Chicago, IL 60614",-1,3300,,-87.651764,41.927814,,FOR_RENT,2112563608,,https://photos.zillowstatic.com/fp/d8581f5deda71dad59372225affbbce5-p_e.jpg,1510,1,,USA,USD,3,TRUE
+34,,APARTMENT,,"5054 N Winthrop Ave APT 407, Chicago, IL 60640",-1,975,,-87.65817,41.974937,,FOR_RENT,2126618394,,https://photos.zillowstatic.com/fp/ad1b31afd17eeae984183a13231cf6a2-p_e.jpg,,1,,USA,USD,1,TRUE
+35,,,,"2756 N Pine Grove Ave, Chicago, IL",,,,,,,,41.9325--87.64159,,"https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=575x242&zoom=17&center=41.932498931884766,-87.64158630371094&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&signature=9lLyVAb4-NjopHdRfD6Cx5oeN54=",,,,,,,
+36,,APARTMENT,,"6509 N Hoyne Ave #3N, Chicago, IL 60645",-1,1175,,-87.682396,42.00004,,FOR_RENT,2064141212,,https://photos.zillowstatic.com/fp/ed77a63eae438243582bf42f2bb9da76-p_e.jpg,,1,,USA,USD,2,TRUE
+37,,APARTMENT,,"2047 W Cortez St #2, Chicago, IL 60622",-1,2495,,-87.679,41.900173,,FOR_RENT,2081635498,,https://photos.zillowstatic.com/fp/4be6c129267d4dbab65e23adaf9488f8-p_e.jpg,1000,1,,USA,USD,2,TRUE
+38,,,,"1435 N Wells St, Chicago, IL",,,,,,,,41.908848--87.63436,,https://photos.zillowstatic.com/fp/db7c21a338a1c93ba79682ebae2b96c6-p_e.jpg,,,,,,,TRUE
+39,,APARTMENT,,"2617 N. Magnolia Ave., 2617 N Magnolia Ave, Chicago, IL 60614",-1,3595,,-87.659485,41.929443,,FOR_RENT,2064142075,,https://photos.zillowstatic.com/fp/169f739b5ba4b40015faa06aee0fefc8-p_e.jpg,,2,,USA,USD,2,TRUE

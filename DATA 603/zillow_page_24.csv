@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,APARTMENT,,"1254 N Greenview Ave, Chicago, IL 60642",-1,2600,,-87.6654,41.90504,,FOR_RENT,2108887454,,https://photos.zillowstatic.com/fp/86c9206b9c65b161308b3532ece22bb3-p_e.jpg,1000,2,,USA,USD,2,TRUE
+1,,APARTMENT,,"1154 E 67th St UNIT 1, Chicago, IL 60637",-1,1295,,-87.596405,41.773376,,FOR_RENT,2064150956,,https://photos.zillowstatic.com/fp/f0bb3b5b4b2278219365b9f5123d22a6-p_e.jpg,,1,,USA,USD,2,TRUE
+2,,APARTMENT,,"2 bed, 1270 sqft, $2,874, 2847 N Clybourn Ave #11039183, Chicago, IL 60618",-1,2874,,-87.67934,41.933525,,FOR_RENT,2064150981,,https://photos.zillowstatic.com/fp/dbfa27aa046c9df41d30052a40ed97ee-p_e.jpg,1270,2,,USA,USD,2,TRUE
+3,,,,"6000-6002 N Winthrop Ave, Chicago, IL",,,,,,,,41.99315--87.658295,,https://photos.zillowstatic.com/fp/3a97dd39e9a39c72973b3fcc2ac37ea0-p_e.jpg,,,,,,,TRUE
+4,,APARTMENT,,"1 bed, 550 sqft, $1,250, 900 W Gunnison St #305, Chicago, IL 60640",-1,1250,,-87.65259,41.970306,,FOR_RENT,2079258330,,https://photos.zillowstatic.com/fp/de6c5c5c72fe7b63767ad698f7bc72b2-p_e.jpg,550,1,,USA,USD,1,TRUE
+5,,APARTMENT,,"1621 W Farwell Ave APT 3S, Chicago, IL 60626",-1,1300,,-87.67091,42.006084,,FOR_RENT,2084316443,,https://photos.zillowstatic.com/fp/10e8deca5844757f348105b90d69fa47-p_e.jpg,,1,,USA,USD,2,TRUE
+6,,,,"3852-3856 N Clark St, Chicago, IL",,,,,,,,41.949535--87.65838,,https://photos.zillowstatic.com/fp/b18bd7748400e0158b783eb831b788c4-p_e.jpg,,,,,,,TRUE
+7,,,,"6200-48 N Clark St W, Chicago, IL",,,,,,,,41.99107--87.66547,,https://photos.zillowstatic.com/fp/5ec97111b43dce5a21fac8d8c4c93d51-p_e.jpg,,,,,,,TRUE
+8,,APARTMENT,,"2917-39 N Central - 2921-203, 2921 N Central Ave UNIT 203, Chicago, IL 60634",-1,1795,,-87.76629,41.933517,,FOR_RENT,2064151873,,https://photos.zillowstatic.com/fp/21c960ddbec97b4eb83bfc97c7cd3104-p_e.jpg,1400,2,,USA,USD,2,TRUE
+9,,APARTMENT,,"1042 W George St #2F, Chicago, IL 60657",-1,1550,,-87.65559,41.934685,,FOR_RENT,2112157378,,https://photos.zillowstatic.com/fp/f15765af1e659975b6a381675dc45b6d-p_e.jpg,800,1,,USA,USD,2,TRUE
+10,,,,"3246 N Seminary Ave, Chicago, IL",,,,,,,,41.94124--87.65694,,https://photos.zillowstatic.com/fp/c5d31fa7eafc2fc7995be0387844dc21-p_e.jpg,,,,,,,TRUE
+11,,APARTMENT,,"633 W Oakdale Ave APT 1, Chicago, IL 60657",-1,2795,,-87.64557,41.93545,,FOR_RENT,2099182330,,https://photos.zillowstatic.com/fp/b58a08696e64d5a9d453da9eed07acdc-p_e.jpg,1300,1,,USA,USD,3,TRUE
+12,,APARTMENT,,"635 W Oakdale Ave #6354, Chicago, IL 60657",-1,2795,,-87.64562,41.93545,,FOR_RENT,2064152412,,https://photos.zillowstatic.com/fp/51d2ff703e66daf0f7d611bafd8b4855-p_e.jpg,,1,,USA,USD,2,TRUE
+13,,,,"837 W Wolfram St, Chicago, IL",,,,,,,,41.93333--87.65056,,https://photos.zillowstatic.com/fp/659515b251f2a419625621464fc233c1-p_e.jpg,,,,,,,TRUE
+14,,APARTMENT,,"604 W Surf St APT 2, Chicago, IL 60657",-1,2495,,-87.64442,41.93487,,FOR_RENT,2101967982,,https://photos.zillowstatic.com/fp/a25b3caef64acfedff781d0c8f7bfa96-p_e.jpg,900,1,,USA,USD,2,TRUE
+15,,APARTMENT,,"626 W Barry Ave #B626-N3, Chicago, IL 60657",-1,1550,,-87.645424,41.93862,,FOR_RENT,2064152415,,https://photos.zillowstatic.com/fp/7922df418f8489466f4db247cf095a39-p_e.jpg,,1,,USA,USD,1,TRUE
+16,,,,"627 W Oakdale Ave, Chicago, IL",,,,,,,,41.93541--87.64552,,https://photos.zillowstatic.com/fp/5ec814d84b3a8073d7af23eb4aeab4ad-p_e.jpg,,,,,,,TRUE
+17,,APARTMENT,,"510 W Briar Pl #510304, Chicago, IL 60657",-1,1495,,-87.64242,41.93895,,FOR_RENT,2085974598,,https://photos.zillowstatic.com/fp/cc7d45c4a216a49277318292decef4c6-p_e.jpg,,1,,USA,USD,1,TRUE
+18,,,,"626 W Cornelia Ave, Chicago, IL",,,,,,,,41.946224--87.64577,,https://photos.zillowstatic.com/fp/77df13da5c9f1dc06e2bde8e64678e5a-p_e.jpg,,,,,,,TRUE
+19,,APARTMENT,,"1448 W Byron St APT 2, Chicago, IL 60613",-1,2395,,-87.66608,41.952538,,FOR_RENT,2110747610,,https://photos.zillowstatic.com/fp/dc4efe4a7fda8c036d4d0f85407de817-p_e.jpg,1000,1,,USA,USD,2,TRUE
+20,,APARTMENT,,"2106 W Ainslie St #N1, Chicago, IL 60625",-1,1395,,-87.682,41.970524,,FOR_RENT,2064152426,,https://photos.zillowstatic.com/fp/d17df7ebc32d541693627ac8de078679-p_e.jpg,,1,,USA,USD,1,TRUE
+21,,,,"1347 N Dearborn St, Chicago, IL",,,,,,,,41.90721--87.62966,,https://photos.zillowstatic.com/fp/cbe3a525604f31bcca779d48e58c30f6-p_e.jpg,,,,,,,TRUE
+22,,APARTMENT,,"748 W Addison St #N1, Chicago, IL 60613",-1,1995,,-87.649,41.94777,,FOR_RENT,2064152419,,https://photos.zillowstatic.com/fp/0149f895da82dca9b302727aab45c373-p_e.jpg,,1,,USA,USD,1,TRUE
+23,,APARTMENT,,"2100 W Ainslie St #W1, Chicago, IL 60625",-1,1395,,-87.682045,41.970776,,FOR_RENT,2077842984,,https://photos.zillowstatic.com/fp/4f4660f97e45d01dc0574173c704e4db-p_e.jpg,,1,,USA,USD,0,TRUE
+24,,APARTMENT,,"1446 W Byron St #3, Chicago, IL 60613",-1,1595,,-87.66602,41.952538,,FOR_RENT,2115399844,,https://photos.zillowstatic.com/fp/7e9c5af11aa754219f73dd7767af528a-p_e.jpg,800,1,,USA,USD,1,TRUE
+25,,APARTMENT,,"2203 W Eastwood Ave #1NW, Chicago, IL 60625",-1,1495,,-87.68404,41.965946,,FOR_RENT,2092988618,,https://photos.zillowstatic.com/fp/176d2594b1e4a50c6102debb66d5def6-p_e.jpg,500,1,,USA,USD,0,TRUE
+26,,APARTMENT,,"955 W Cornelia Ave APT 3C, Chicago, IL 60657",-1,1450,,-87.65357,41.945427,,FOR_RENT,2101432015,,https://photos.zillowstatic.com/fp/044dc5b26f6b57e751bf1b8d258f2f80-p_e.jpg,800,1,,USA,USD,1,TRUE
+27,,APARTMENT,,"1450 W Byron St APT 1, Chicago, IL 60613",-1,2295,,-87.66613,41.952538,,FOR_RENT,2096787240,,https://photos.zillowstatic.com/fp/61c0b966ee1bcb041fe39fe86420d8d7-p_e.jpg,700,1,,USA,USD,2,TRUE
+28,,APARTMENT,,"1200 W Wellington Ave #12002, Chicago, IL 60657",-1,1695,,-87.659065,41.93648,,FOR_RENT,2064152422,,https://photos.zillowstatic.com/fp/d609b0545846fca2dbd2e32ab7b959ee-p_e.jpg,,1,,USA,USD,1,TRUE
+29,,,,"1117 W Oakdale Ave, Chicago, IL",,,,,,,,41.93493--87.657135,,https://photos.zillowstatic.com/fp/6ef51eb33e658e1f56fa379cb30d5300-p_e.jpg,,,,,,,TRUE
+30,,,,"1050 W George St, Chicago, IL",,,,,,,,41.93471--87.65593,,https://photos.zillowstatic.com/fp/090c3e3e80250bb40c1c8787e5630fb6-p_e.jpg,,,,,,,TRUE
+31,,APARTMENT,,"520 N May St APT 2, Chicago, IL 60642",-1,2100,,-87.65614,41.891777,,FOR_RENT,2079677294,,https://photos.zillowstatic.com/fp/2ea8f5402cf8ff7e48a97da273a1ddfd-p_e.jpg,950,1,,USA,USD,2,TRUE
+32,,APARTMENT,,"531 N Ashland Ave #2R, Chicago, IL 60642",-1,1700,,-87.66686,41.89198,,FOR_RENT,2071732890,,https://photos.zillowstatic.com/fp/8e8e82033e8f7d8800650e4a69673513-p_e.jpg,850,1,,USA,USD,2,TRUE
+33,,APARTMENT,,"10922 S Vernon Ave APT 3W, Chicago, IL 60628",-1,825,,-87.612755,41.695644,,FOR_RENT,2109438397,,https://photos.zillowstatic.com/fp/de6b56ddeb0dea4b87640b9ab7f5bfd7-p_e.jpg,,1,,USA,USD,1,TRUE
+34,,APARTMENT,,"2642 N Marshfield Avenue, 2642 N Marshfield Ave #2F, Chicago, IL 60614",-1,2280,,-87.66986,41.930023,,FOR_RENT,2102743427,,https://photos.zillowstatic.com/fp/03bdfcbe0080153dc4f701e29654f882-p_e.jpg,1000,1,,USA,USD,2,TRUE
+35,,APARTMENT,,"2855 W Grace St #1E, Chicago, IL 60618",-1,1600,,-87.70028,41.950195,,FOR_RENT,2077887855,,https://photos.zillowstatic.com/fp/b2ec004d2edacc46897ee650f0509cbe-p_e.jpg,1000,1,,USA,USD,2,TRUE
+36,,APARTMENT,,"4652 N. Sheridan Rd., 4652 N Sheridan Rd #1, Chicago, IL 60640",-1,1650,,-87.65522,41.966972,,FOR_RENT,2071454468,,https://photos.zillowstatic.com/fp/8a462ec3f4b239d34c4549bf12103c17-p_e.jpg,,1.5,,USA,USD,2,TRUE
+37,,APARTMENT,,"3118 N Greenview Ave #402, Chicago, IL 60657",-1,3400,,-87.66618,41.938324,,FOR_RENT,2064153158,,https://photos.zillowstatic.com/fp/affa2797d467bcd47086ba6a380b5f62-p_e.jpg,950,2,,USA,USD,2,TRUE
+38,,APARTMENT,,"1447-57 W. Cornelia Ave., 1447 W Cornelia Ave #1449-2, Chicago, IL 60657",-1,1895,,-87.66599,41.945072,,FOR_RENT,2079060178,,https://photos.zillowstatic.com/fp/648cd70e553bea3bdf744df07d6ace98-p_e.jpg,868,1,,USA,USD,2,TRUE
+39,,,,"619 S La Salle St, Chicago, IL",,,,,,,,41.87398--87.63136,,https://photos.zillowstatic.com/fp/32a80a0dc1aa24ced48636779fd94108-p_e.jpg,,,,,,,TRUE

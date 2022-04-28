@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,APARTMENT,,"3123 W Foster Ave APT K1, Chicago, IL 60625",-1,1300,,-87.70706,41.975494,,FOR_RENT,2088702710,,https://photos.zillowstatic.com/fp/709b4893bb052ae51de4a386634a57d9-p_e.jpg,900,1,,USA,USD,2,TRUE
+1,,APARTMENT,,"4236 N Broadway St APT 304, Chicago, IL 60613",-1,900,,-87.653915,41.95928,,FOR_RENT,2073364748,,https://photos.zillowstatic.com/fp/344369b1a5cc0f658c5b6fbb3bee6656-p_e.jpg,400,1,,USA,USD,0,TRUE
+2,,APARTMENT,,"2642 N Marshfield Avenue, 2642 N Marshfield Ave #2F, Chicago, IL 60614",-1,2280,,-87.66986,41.930023,,FOR_RENT,2102743427,,https://photos.zillowstatic.com/fp/03bdfcbe0080153dc4f701e29654f882-p_e.jpg,1000,1,,USA,USD,2,TRUE
+3,,APARTMENT,,"2855 W Grace St #1E, Chicago, IL 60618",-1,1600,,-87.70028,41.950195,,FOR_RENT,2077887855,,https://photos.zillowstatic.com/fp/b2ec004d2edacc46897ee650f0509cbe-p_e.jpg,1000,1,,USA,USD,2,TRUE
+4,,APARTMENT,,"4652 N. Sheridan Rd., 4652 N Sheridan Rd #1, Chicago, IL 60640",-1,1650,,-87.65522,41.966972,,FOR_RENT,2071454468,,https://photos.zillowstatic.com/fp/8a462ec3f4b239d34c4549bf12103c17-p_e.jpg,,1.5,,USA,USD,2,TRUE
+5,,APARTMENT,,"3118 N Greenview Ave #402, Chicago, IL 60657",-1,3400,,-87.66618,41.938324,,FOR_RENT,2064153158,,https://photos.zillowstatic.com/fp/affa2797d467bcd47086ba6a380b5f62-p_e.jpg,950,2,,USA,USD,2,TRUE
+6,,APARTMENT,,"1447-57 W. Cornelia Ave., 1447 W Cornelia Ave #1449-2, Chicago, IL 60657",-1,1895,,-87.66599,41.945072,,FOR_RENT,2079060178,,https://photos.zillowstatic.com/fp/648cd70e553bea3bdf744df07d6ace98-p_e.jpg,868,1,,USA,USD,2,TRUE
+7,,,,"619 S La Salle St, Chicago, IL",,,,,,,,41.87398--87.63136,,https://photos.zillowstatic.com/fp/32a80a0dc1aa24ced48636779fd94108-p_e.jpg,,,,,,,TRUE
+8,,APARTMENT,,"3829-31 N. Kedzie Ave., 3829 N Kedzie Ave #3831-3N, Chicago, IL 60618",-1,2150,,-87.70757,41.951206,,FOR_RENT,2064153212,,https://photos.zillowstatic.com/fp/c1dfae3e40bc27f248a6acd8b3a6cecf-p_e.jpg,,2,,USA,USD,3,TRUE
+9,,,,"3559 N Milwaukee Ave, Chicago, IL",,,,,,,,41.9455--87.7339,,https://photos.zillowstatic.com/fp/32136c5d2bf9925e52e27a4827545e67-p_e.jpg,,,,,,,TRUE
+10,,APARTMENT,,"7255-57 N. Bell Ave., 7255 N Bell Ave #72572, Chicago, IL 60645",-1,1850,,-87.68588,42.01386,,FOR_RENT,2073752217,,https://photos.zillowstatic.com/fp/3756ea75e8e144dfbe217dc087e04f9a-p_e.jpg,,2,,USA,USD,3,TRUE
+11,,,,"1448 N Leavitt St, Chicago, IL",,,,,,,,41.908203--87.68241,,https://photos.zillowstatic.com/fp/0bfb2f5289237d92ad747d52fda3623c-p_e.jpg,,,,,,,TRUE
+12,,APARTMENT,,"2150 N. Halsted St., 2150 N Halsted St APT 3F, Chicago, IL 60614",-1,2195,,-87.64888,41.92149,,FOR_RENT,2097525591,,https://photos.zillowstatic.com/fp/2afcfc04b8e392ac5f6fec15878ed5eb-p_e.jpg,,1,,USA,USD,2,TRUE
+13,,APARTMENT,,"4362-64 N. Kenmore Ave., 4362 N Kenmore Ave #4364-1, Chicago, IL 60613",-1,1850,,-87.65668,41.961586,,FOR_RENT,2071595958,,https://photos.zillowstatic.com/fp/74d616df4f89e1ed4bdd5794218e8208-p_e.jpg,890,1,,USA,USD,2,TRUE
+14,,APARTMENT,,"1901-03 W. Addison St., 1901 W Addison St #3548-2, Chicago, IL 60613",-1,1795,,-87.67633,41.946617,,FOR_RENT,2071627759,,https://photos.zillowstatic.com/fp/52e0da51c85aae0a0b514df2d2b21842-p_e.jpg,771,1,,USA,USD,2,TRUE
+15,,APARTMENT,,"1406 W. Superior St., 1406 W Superior St APT 2R, Chicago, IL 60642",-1,1795,,-87.66272,41.89546,,FOR_RENT,2102450804,,https://photos.zillowstatic.com/fp/400852479ef6f9e792c2c84a91d16a75-p_e.jpg,,1,,USA,USD,2,TRUE
+16,,APARTMENT,,"2028 N. Winchester Ave., 2028 N Winchester Ave APT 1R, Chicago, IL 60614",-1,2395,,-87.676704,41.918682,,FOR_RENT,2108768019,,https://photos.zillowstatic.com/fp/c9a2fbde369e63db846622aafc97100e-p_e.jpg,,1.5,,USA,USD,3,TRUE
+17,,,,"1170 N Milwaukee Ave, Chicago, IL",,,,,,,,41.902798--87.6661,,https://photos.zillowstatic.com/fp/e58e9a647d4df3df8bc71f6ac0b91b78-p_e.jpg,,,,,,,TRUE
+18,,APARTMENT,,"1431-33 N. Wicker Park Ave., 1431 N Wicker Park Ave APT 3, Chicago, IL 60622",-1,2195,,-87.675285,41.908005,,FOR_RENT,2081909885,,https://photos.zillowstatic.com/fp/f7fd8d6f7044f6196ff0a6c0be9246e9-p_e.jpg,1400,1,,USA,USD,2,TRUE
+19,,APARTMENT,,"222 N Garland Ct FLOOR 30-ID41, Chicago, IL 60601",-1,3480,,-87.62529,41.88628,,FOR_RENT,2068772159,,https://photos.zillowstatic.com/fp/da6a685483b9eaf588e85c4c5916494a-p_e.jpg,860,1,,USA,USD,1,TRUE
+20,,APARTMENT,,"20 S Clark St FLOOR 10-ID503, Chicago, IL 60603",-1,2820,,-87.63122,41.881294,,FOR_RENT,2064207402,,https://photos.zillowstatic.com/fp/dc51d8f8b24c4c2e81436edf1b147ef3-p_e.jpg,695,1,,USA,USD,0,TRUE
+21,,APARTMENT,,"4500 S King Dr #GN, Chicago, IL 60653",-1,2365,,-87.617325,41.812817,,FOR_RENT,2069828829,,https://photos.zillowstatic.com/fp/ce13e72d70b7e1b7aa1a97b698c59374-p_e.jpg,,2,,USA,USD,3,TRUE
+22,,APARTMENT,,"3002 W Ainslie St APT 2S, Chicago, IL 60625",-1,1750,,-87.70405,41.9706,,FOR_RENT,2069892364,,https://photos.zillowstatic.com/fp/743a326efad64ba9ac8f9f8b578461ff-p_e.jpg,850,1,,USA,USD,3,TRUE
+23,,APARTMENT,,"6954 N Wolcott Ave #1, Chicago, IL 60626",-1,1995,,-87.67858,42.008152,,FOR_RENT,2065792737,,https://photos.zillowstatic.com/fp/76474fd87ea2908bec6cd7da429e7b07-p_e.jpg,825,1,,USA,USD,3,TRUE
+24,,,,"4950 S King Dr, Chicago, IL",,,,,,,,41.80432--87.61709,,https://photos.zillowstatic.com/fp/64070e09744cb294f575a3a799df2d57-p_e.jpg,,,,,,,TRUE
+25,,,,"1057 W Foster Ave, Chicago, IL",,,,,,,,41.97618--87.65719,,https://photos.zillowstatic.com/fp/88825d556861f96ba3ff974716b86207-p_e.jpg,,,,,,,TRUE
+26,,APARTMENT,,"2639 W. 25th Street, 2639 W 25th St #1F, Chicago, IL 60608",-1,1200,,-87.691956,41.84624,,FOR_RENT,2065645277,,https://photos.zillowstatic.com/fp/c01ce1a328fff137a9882d031c689954-p_e.jpg,,1,,USA,USD,1,TRUE
+27,,APARTMENT,,"1100 W Berwyn, (undisclosed Address), Chicago, IL 60640",-1,1650,,,,,FOR_RENT,2064153739,,https://photos.zillowstatic.com/fp/cf5d4f00c94db50be2b21424dc940933-p_e.jpg,,1,,USA,USD,3,TRUE
+28,,APARTMENT,,"1100 W Berwyn, (undisclosed Address), Chicago, IL 60640",-1,1650,,,,,FOR_RENT,2064153740,,https://photos.zillowstatic.com/fp/cf5d4f00c94db50be2b21424dc940933-p_e.jpg,1150,1,,USA,USD,2,TRUE
+29,,APARTMENT,,"1701-03 North Kedzie Ave - 1703 - 1, 1703 N Kedzie Ave #1, Chicago, IL 60647",-1,3200,,-87.70658,41.91209,,FOR_RENT,2064154059,,https://photos.zillowstatic.com/fp/e9b7709e700d1f858761bb5b104b8bcf-p_e.jpg,2000,3,,USA,USD,3,TRUE
+30,,APARTMENT,,"1321 W Estes Ave #14, Chicago, IL 60626",-1,875,,-87.66374,42.011047,,FOR_RENT,2070888597,,https://photos.zillowstatic.com/fp/b34419aa473109199cb2941403057d28-p_e.jpg,500,1,,USA,USD,0,TRUE
+31,,APARTMENT,,"2401 North Clybourn Avenue - 2407-2, 2407 N Clybourn Ave, Chicago, IL 60614",-1,1975,,-87.669395,41.925423,,FOR_RENT,2078791888,,https://photos.zillowstatic.com/fp/f1e0c6a10444f07d364afe63d7c98b0d-p_e.jpg,1100,2,,USA,USD,2,TRUE
+32,,,,"808 W Van Buren St, Chicago, IL",,,,,,,,41.876804--87.64745,,https://photos.zillowstatic.com/fp/ff7857e34e4b4f2e5e0fb47f90586d86-p_e.jpg,,,,,,,TRUE
+33,,APARTMENT,,"2707 N Washtenaw Ave APT 2, Chicago, IL 60647",-1,2450,,-87.69482,41.9306,,FOR_RENT,2094507996,,https://photos.zillowstatic.com/fp/7576832c4f9831626ede05f8c947a16b-p_e.jpg,1500,2,,USA,USD,3,TRUE
+34,,APARTMENT,,"1456 W 18th St APT 3R, Chicago, IL 60608",-1,2100,,-87.663506,41.8581,,FOR_RENT,2071978870,,https://photos.zillowstatic.com/fp/b752a7b734bcfc4746407b984f4820de-p_e.jpg,1100,1,,USA,USD,2,TRUE
+35,,APARTMENT,,"3705 N Lockwood Ave #SL, Chicago, IL 60641",-1,1695,,-87.75921,41.948063,,FOR_RENT,2064155069,,https://photos.zillowstatic.com/fp/46453b7854a9c6548eef471817f14f31-p_e.jpg,,1,,USA,USD,3,TRUE
+36,,,,"523 W Fullerton Pkwy, Chicago, IL",,,,,,,,41.925407--87.64243,,https://photos.zillowstatic.com/fp/4668730d37d32adc2ed8bb017caea354-p_e.jpg,,,,,,,TRUE
+37,,,,"500 W Fullerton Ave, Chicago, IL",,,,,,,,41.925926--87.64181,,https://photos.zillowstatic.com/fp/c201dae0637f4187f379787347a1e9f8-p_e.jpg,,,,,,,TRUE
+38,,,,"451 W Melrose St, Chicago, IL",,,,,,,,41.940838--87.64154,,https://photos.zillowstatic.com/fp/f783a33c061ecdbce4ca8c765656646b-p_e.jpg,,,,,,,TRUE
+39,,,,"444 W St James Pl, Chicago, IL",,,,,,,,41.928345--87.64082,,https://photos.zillowstatic.com/fp/a6c03349c66b8ff9215ec4236e4781c6-p_e.jpg,,,,,,,TRUE

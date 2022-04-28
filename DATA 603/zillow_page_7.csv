@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,APARTMENT,,"Germain House, 925 W Chicago Ave #402, Chicago, IL 60642",-1,2700,,-87.65103,41.896038,,FOR_RENT,2073566418,,https://photos.zillowstatic.com/fp/a1d43d3d8a3baed1570e7fe15e3a5826-p_e.jpg,719,1,,USA,USD,1,TRUE
+1,,,,"632 W Addison St, Chicago, IL",,,,,,,,41.947884--87.64697,,https://photos.zillowstatic.com/fp/e1bda4b34f06396555babca5520fce07-p_e.jpg,,,,,,,TRUE
+2,,,,"1325 N Wells St, Chicago, IL",,,,,,,,41.906555--87.634186,,https://photos.zillowstatic.com/fp/fe70f524ad0ad22e12a270d4f3c08ea7-p_e.jpg,,,,,,,TRUE
+3,,,,"858 N Franklin St, Chicago, IL",,,,,,,,41.89831--87.63606,,https://photos.zillowstatic.com/fp/738f19002572cba1d6b967e07fd28bfd-p_e.jpg,,,,,,,TRUE
+4,,APARTMENT,,"3726 N Christiana Ave #2, Chicago, IL 60618",-1,1250,,-87.71182,41.94943,,FOR_RENT,2079985009,,https://photos.zillowstatic.com/fp/41a8164690a0e742b49cf15cf8ebafa7-p_e.jpg,800,1,,USA,USD,1,TRUE
+5,,,,"710 W Grand Ave, Chicago, IL",,,,,,,,41.892002--87.6467,,https://photos.zillowstatic.com/fp/b0d7230aa6cb32ad09193efde0b5011c-p_e.jpg,,,,,,,TRUE
+6,,,,"2345 N Lincoln Ave, Chicago, IL",,,,,,,,41.92516--87.6474,,https://photos.zillowstatic.com/fp/e0407f5b82c2dac169e60d3ee5cbccd2-p_e.jpg,,,,,,,TRUE
+7,,,,"637 N Wells St, Chicago, IL",,,,,,,,41.89354--87.63389,,https://photos.zillowstatic.com/fp/aedffe5c983ea4c627b3a3da2174bf93-p_e.jpg,,,,,,,TRUE
+8,,,,"850 S Clark St, Chicago, IL",,,,,,,,41.87134--87.63121,,https://photos.zillowstatic.com/fp/a705ec0605eb8000069f92f80cb437aa-p_e.jpg,,,,,,,TRUE
+9,,,,"939 W Washington St, Chicago, IL",,,,,,,,41.883114--87.65108,,https://photos.zillowstatic.com/fp/8b6e5fb5dd88d388cff769d49574e15d-p_e.jpg,,,,,,,TRUE
+10,,,,"350 W Oakdale Ave, Chicago, IL",,,,,,,,41.935932--87.638985,,https://photos.zillowstatic.com/fp/9dc71a63b52f67a21554845091b144ac-p_e.jpg,,,,,,,TRUE
+11,,,,"1120-1126 E 47th St, Chicago, IL",,,,,,,,41.81015--87.59823,,https://photos.zillowstatic.com/fp/11ba6229c985866bbfd9c6d5f9e6c22a-p_e.jpg,,,,,,,TRUE
+12,,,,"5220 S Drexel Ave, Chicago, IL",,,,,,,,41.799713--87.604546,,https://photos.zillowstatic.com/fp/124f492fa3f2ed369d49542e64edaaf8-p_e.jpg,,,,,,,TRUE
+13,,,,"428 W Belden Ave, Chicago, IL",,,,,,,,41.92414--87.64041,,https://photos.zillowstatic.com/fp/5452394923bc1a26f097cbced252605c-p_e.jpg,,,,,,,TRUE
+14,,,,"1900 W Pratt Blvd, Chicago, IL",,,,,,,,42.005386--87.678116,,https://photos.zillowstatic.com/fp/7adcd9eaf8e45630fa1eeb96e700c18a-p_e.jpg,,,,,,,TRUE
+15,,APARTMENT,,"546 W Surf St #N3, Chicago, IL 60657",-1,1795,,-87.64319,41.934624,,FOR_RENT,2071072266,,https://photos.zillowstatic.com/fp/1d59c37150768fd48c2a413f28f540a5-p_e.jpg,,1,,USA,USD,1,TRUE
+16,,APARTMENT,,"858 W Fletcher St APT 2S, Chicago, IL 60657",-1,2150,,-87.65154,41.939163,,FOR_RENT,2094370516,,https://photos.zillowstatic.com/fp/3e4b47243340455cb12410de347bdc55-p_e.jpg,1000,1,,USA,USD,2,TRUE
+17,,APARTMENT,,"1740 W Huron St APT 1R, Chicago, IL 60622",-1,2395,,-87.67132,41.894444,,FOR_RENT,2101551860,,https://photos.zillowstatic.com/fp/44e29ff63c68b943a24d985a47b2238e-p_e.jpg,2000,2,,USA,USD,3,TRUE
+18,,APARTMENT,,"2631 W 23rd Pl #2, Chicago, IL 60608",-1,1600,,-87.69222,41.84896,,FOR_RENT,2076802265,,https://photos.zillowstatic.com/fp/46e070aa19ab495af40af1c31b31bb9d-p_e.jpg,1200,2,,USA,USD,2,TRUE
+19,,,,"1343 N Leavitt St, Chicago, IL",,,,,,,,41.906273--87.68183,,https://photos.zillowstatic.com/fp/1e0eb848b32a3398fb7e2b64d98c66c9-p_e.jpg,,,,,,,TRUE
+20,,,,"2332.5 N Spaulding Ave, Chicago, IL",,,,,,,,41.927185--87.710815,,https://photos.zillowstatic.com/fp/e9bec767069bbffc389098bd3c991f95-p_e.jpg,,,,,,,TRUE
+21,,,,"1742 N Humboldt Blvd, Chicago, IL",,,,,,,,41.913208--87.70266,,https://photos.zillowstatic.com/fp/330a6911b06d42f6b4b80c7bd79f4782-p_e.jpg,,,,,,,TRUE
+22,,APARTMENT,,"149 W Chicago Ave UNIT 3, Chicago, IL 60654",-1,1750,,-87.63311,41.89636,,FOR_RENT,2077380976,,https://photos.zillowstatic.com/fp/6d62b7ef5c0eeecedb9497a7d512545c-p_e.jpg,1000,1,,USA,USD,2,TRUE
+23,,APARTMENT,,"2426 N Sawyer Ave APT 1W, Chicago, IL 60647",-1,1550,,-87.70978,41.925602,,FOR_RENT,2077322232,,https://photos.zillowstatic.com/fp/44b3545ffb7a8175e45ec2ad27611f5a-p_e.jpg,908,1,,USA,USD,1,TRUE
+24,,APARTMENT,,"2823 W Shakespeare Ave #1, Chicago, IL 60647",-1,1500,,-87.69842,41.920494,,FOR_RENT,2064122364,,https://photos.zillowstatic.com/fp/5335df996a6b4a205dbd1642c940aba6-p_e.jpg,900,1,,USA,USD,1,TRUE
+25,,APARTMENT,,"3616 W Wrightwood Ave #1, Chicago, IL 60647",-1,1600,,-87.71786,41.928513,,FOR_RENT,2064122358,,https://photos.zillowstatic.com/fp/26340af1c411f4159ee3eb96ba93db0e-p_e.jpg,1000,1,,USA,USD,1,TRUE
+26,,APARTMENT,,"2129 N Mozart St #1, Chicago, IL 60647",-1,1350,,-87.698456,41.920444,,FOR_RENT,2085245284,,https://photos.zillowstatic.com/fp/08d2ae4b1df8671801d85fefd149fcff-p_e.jpg,750,1,,USA,USD,1,TRUE
+27,,APARTMENT,,"2025 N Harlem Ave #C13, Elmwood Park, IL 60707",-1,895,,-87.8055,41.916977,,FOR_RENT,2064122359,,https://photos.zillowstatic.com/fp/abd99def209046f950df93f1983273e1-p_e.jpg,700,1,,USA,USD,1,TRUE
+28,,APARTMENT,,"3271 W Altgeld St #3, Chicago, IL 60647",-1,1750,,-87.70981,41.926517,,FOR_RENT,2110974872,,https://photos.zillowstatic.com/fp/abd99def209046f950df93f1983273e1-p_e.jpg,900,1,,USA,USD,2,TRUE
+29,,APARTMENT,,"2516 N Kedzie Blvd APT 2W, Chicago, IL 60647",-1,1950,,-87.70812,41.927246,,FOR_RENT,2126625154,,https://photos.zillowstatic.com/fp/abd99def209046f950df93f1983273e1-p_e.jpg,900,1,,USA,USD,2,TRUE
+30,,APARTMENT,,"1538 N Kedzie Ave APT 1K, Chicago, IL 60651",-1,1195,,-87.707695,41.90943,,FOR_RENT,2100890894,,https://photos.zillowstatic.com/fp/abd99def209046f950df93f1983273e1-p_e.jpg,864,1,,USA,USD,2,TRUE
+31,,APARTMENT,,"2332 N Spaulding Ave APT 1A, Chicago, IL 60647",-1,1395,,-87.71118,41.923855,,FOR_RENT,2113608928,,https://photos.zillowstatic.com/fp/abd99def209046f950df93f1983273e1-p_e.jpg,612,1,,USA,USD,1,TRUE
+32,,APARTMENT,,"2338 N Spaulding Ave #G, Chicago, IL 60647",-1,1795,,-87.71118,41.924007,,FOR_RENT,2113986889,,https://photos.zillowstatic.com/fp/abd99def209046f950df93f1983273e1-p_e.jpg,1236,1,,USA,USD,3,TRUE
+33,,APARTMENT,,"2418 N Sawyer Ave APT 1E, Chicago, IL 60647",-1,2095,,-87.709785,41.925537,,FOR_RENT,2126197331,,https://photos.zillowstatic.com/fp/abd99def209046f950df93f1983273e1-p_e.jpg,962,1,,USA,USD,2,TRUE
+34,,CONDO,7800,"4621 N Malden St #3S, Chicago, IL 60640",-1,2400,,-87.6621,41.966045,,FOR_RENT,3705362,,https://photos.zillowstatic.com/fp/67a9b815fbab6f4bd932f9723b06cec4-p_e.jpg,1200,2,sqft,USA,USD,2,TRUE
+35,,APARTMENT,,"2246 S Albany Ave #2R, Chicago, IL 60623",-1,1200,,-87.70312,41.850395,,FOR_RENT,2064122375,,https://photos.zillowstatic.com/fp/6988bfd0ee5f8952645656532b0d4615-p_e.jpg,574,1,,USA,USD,1,TRUE
+36,,,,"4600 N Clarendon Ave, Chicago, IL",,,,,,,,41.965794--87.65045,,https://photos.zillowstatic.com/fp/52593276158223da3f43b9309d8b482b-p_e.jpg,,,,,,,TRUE
+37,,,,"2019 N Hoyne Ave, Chicago, IL",,,,,,,,41.9183--87.67972,,https://photos.zillowstatic.com/fp/29e056f9665e4af588336cb72b4c4d9f-p_e.jpg,,,,,,,TRUE
+38,,,,"2111 S Wabash Ave, Chicago, IL",,,,,,,,41.85387--87.62512,,https://photos.zillowstatic.com/fp/9d4b301baea3e146adb7aa4efc7c8b72-p_e.jpg,,,,,,,TRUE
+39,,,,"225 N Columbus Dr, Chicago, IL",,,,,,,,41.8865--87.61972,,https://photos.zillowstatic.com/fp/f5053c3c751f03fd9c67aefe1b08f390-p_e.jpg,,,,,,,TRUE

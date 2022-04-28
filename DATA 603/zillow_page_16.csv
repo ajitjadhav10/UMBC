@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,APARTMENT,0.260215794,"701 S Wells St APT 1405, Chicago, IL 60607",-1,3400,,-87.63335,41.873028,,FOR_RENT,63702805,,https://photos.zillowstatic.com/fp/5991588615299378c78a907708de0f3c-p_e.jpg,1263,2,acres,USA,USD,2,TRUE
+1,,,,"717 S Clark St, Chicago, IL",,,,,,,,41.873215--87.63032,,https://photos.zillowstatic.com/fp/22a321c2af5d5e1638abaa7f90d981ee-p_e.jpg,,,,,,,TRUE
+2,,APARTMENT,,"1221-31 W. Chase Ave, 1221 W Chase Ave #1225-F1, Chicago, IL 60626",-1,1175,,-87.66274,42.01368,,FOR_RENT,2070330351,,https://photos.zillowstatic.com/fp/6f3988923421ce3e3faa7d147f27c6f5-p_e.jpg,,1,,USA,USD,1,TRUE
+3,,,,"215 W Lake St, Chicago, IL",,,,,,,,41.88538--87.6344,,https://photos.zillowstatic.com/fp/06f6bb70648c9abae6072f86008240b1-p_e.jpg,,,,,,,TRUE
+4,,APARTMENT,,"5401-5403 S. Woodlawn Avenue, 5401-5403 S Woodlawn Ave #1211-2, Chicago, IL 60615",-1,2400,,-87.59663,41.79999,,FOR_RENT,2071210866,,https://photos.zillowstatic.com/fp/71a94adf28c6b9888fa6b14ac939e3a1-p_e.jpg,813,1,,USA,USD,3,TRUE
+5,,,,"5535 S Kimbark Ave, Chicago, IL",,,,,,,,41.7952--87.5949,,https://photos.zillowstatic.com/fp/a2a09cb90fac164da462cd01906620c7-p_e.jpg,,,,,,,TRUE
+6,,,,"1122 W Chicago Ave, Chicago, IL",,,,,,,,41.896626--87.65601,,https://photos.zillowstatic.com/fp/67c1a7ed4a6da752de4472027b7ee834-p_e.jpg,,,,,,,TRUE
+7,,APARTMENT,,"544 N Wells St #3, Chicago, IL 60654",-1,2750,,-87.63444,41.89219,,FOR_RENT,2064135501,,https://photos.zillowstatic.com/fp/867ef790536953134d8412a803f08a10-p_e.jpg,,2,,USA,USD,2,TRUE
+8,,APARTMENT,,"2056 W. Division St., 2056 W Division St APT 2E, Chicago, IL 60622",-1,2395,,-87.6795,41.903374,,FOR_RENT,2112084942,,https://photos.zillowstatic.com/fp/e374aa3ec325462cebe5152f8c413440-p_e.jpg,1100,1,,USA,USD,2,TRUE
+9,,,,"108 W Chicago Ave, Chicago, IL",,,,,,,,41.896763--87.631905,,https://photos.zillowstatic.com/fp/d5dca834629d06ebc1add2b2b7d830d8-p_e.jpg,,,,,,,TRUE
+10,,APARTMENT,,"2117-19 W. Washington Blvd., 2117 W Washington Blvd #2119-2W, Chicago, IL 60612",-1,1795,,-87.679855,41.88284,,FOR_RENT,2079950301,,https://photos.zillowstatic.com/fp/94697ee900d68837ac57244954a08399-p_e.jpg,,2,,USA,USD,2,TRUE
+11,,,,"5756-58 S Kenwood Ave, Chicago, IL",,,,,,,,41.78981--87.59344,,https://photos.zillowstatic.com/fp/e63e73596c85f6b0cc2284abec82d4cc-p_e.jpg,,,,,,,TRUE
+12,,,,"5432 S Woodlawn Ave, Chicago, IL",,,,,,,,41.796795--87.59701,,https://photos.zillowstatic.com/fp/b2a8356e543d8eab17a333f70bb88208-p_e.jpg,,,,,,,TRUE
+13,,APARTMENT,,"3734 N Pine Grove, 3734 N Pine Grove Ave APT 403, Chicago, IL 60613",-1,1065,,-87.64761,41.950615,,FOR_RENT,2123627474,,https://photos.zillowstatic.com/fp/d5e0e3d3e526938a8624f9b0e5aacd11-p_e.jpg,475,1,,USA,USD,0,TRUE
+14,,,,"5415 S Woodlawn Ave, Chicago, IL",,,,,,,,41.797318--87.596405,,https://photos.zillowstatic.com/fp/315ddf8980bf3fb9c728a0cd155decf0-p_e.jpg,,,,,,,TRUE
+15,,,,"6720 N Sheridan Rd, Chicago, IL",,,,,,,,42.00413--87.661255,,https://photos.zillowstatic.com/fp/2a156151fe773ff3f5e0a9107513f5be-p_e.jpg,,,,,,,TRUE
+16,,,,"5339 S Woodlawn Ave, Chicago, IL",,,,,,,,41.798225--87.59617,,https://photos.zillowstatic.com/fp/1d3d5cf55d31a65f4a79931419f3845f-p_e.jpg,,,,,,,TRUE
+17,,,,"520 S State St, Chicago, IL",,,,,,,,41.87541--87.62771,,https://photos.zillowstatic.com/fp/c923d8b5816adc7ea99565fe525557e1-p_e.jpg,,,,,,,TRUE
+18,,,,"1215 W Diversey Pkwy, Chicago, IL",,,,,,,,41.932392--87.65941,,https://photos.zillowstatic.com/fp/271f461943ca3a741ba6660b7adc8a53-p_e.jpg,,,,,,,TRUE
+19,,,,"841 W Barry Ave, Chicago, IL",,,,,,,,41.937828--87.65074,,https://photos.zillowstatic.com/fp/93fc46832138e0ca5f60a1e41953c621-p_e.jpg,,,,,,,TRUE
+20,,APARTMENT,,"2151-2153 W. Division St., 2151 W Division St #2151-301, Chicago, IL 60622",-1,3495,,-87.68169,41.902824,,FOR_RENT,2085466558,,https://photos.zillowstatic.com/fp/cb6b3e26cd57bfeb322e2aa558cd8b3b-p_e.jpg,982,2,,USA,USD,3,TRUE
+21,,,,"640 W Sheridan Rd, Chicago, IL",,,,,,,,41.95328--87.64625,,https://photos.zillowstatic.com/fp/acc0b232b2ad6c7c4ee1b03c0d0450fd-p_e.jpg,,,,,,,TRUE
+22,,,,"1100 N Dearborn St, Chicago, IL",,,,,,,,41.902073--87.63038,,https://photos.zillowstatic.com/fp/b0b51987ba48ab8094c02fddbce83865-p_e.jpg,,,,,,,TRUE
+23,,APARTMENT,,"630-38 1/2 W. Arlington, 630-38 1/2 W Arlington Pl #630-3, Chicago, IL 60614",-1,1350,,-87.641754,41.926884,,FOR_RENT,2072215415,,https://photos.zillowstatic.com/fp/41f8206716a8d610b20d744955bb8022-p_e.jpg,525,1,,USA,USD,0,TRUE
+24,,,,"5401-5415 S University Ave, Chicago, IL",,,,,,,,41.79777--87.59777,,https://photos.zillowstatic.com/fp/920ef679c70555f0fbc59ba84431d69d-p_e.jpg,,,,,,,TRUE
+25,,,,"300 W Division St, Chicago, IL",,,,,,,,41.904198--87.63623,,https://photos.zillowstatic.com/fp/5c0d21552d5d47b3cd161fb586504e5c-p_e.jpg,,,,,,,TRUE
+26,,,,"5009 N Sheridan Rd, Chicago, IL",,,,,,,,41.973682--87.654526,,https://photos.zillowstatic.com/fp/389a8e38adc935d09fca8997b81f2405-p_e.jpg,,,,,,,TRUE
+27,,,,"2900 N Damen Ave, Chicago, IL",,,,,,,,41.9344--87.67847,,https://photos.zillowstatic.com/fp/a0d8b67e6cdf32f4fc075c8714ab4f68-p_e.jpg,,,,,,,TRUE
+28,,,,"1350 E 53rd St, Chicago, IL",,,,,,,,41.7998--87.5929,,https://photos.zillowstatic.com/fp/5f7003fdceb24d3452f3a1eee211b2bd-p_e.jpg,,,,,,,TRUE
+29,,,,"5906 N Sheridan Rd, Chicago, IL",,,,,,,,41.98939--87.655785,,https://photos.zillowstatic.com/fp/0ffb929c0ba66ceddd42bd8943cd3632-p_e.jpg,,,,,,,TRUE
+30,,,,"2048 N Cleveland Ave, Chicago, IL",,,,,,,,41.9197--87.64161,,https://photos.zillowstatic.com/fp/883a121d492b463fd44fd50984d64117-p_e.jpg,,,,,,,TRUE
+31,,APARTMENT,,"5325 S. Hyde Park Boulevard, 5325 S Hyde Park Blvd APT 3E, Chicago, IL 60615",-1,1420,,-87.58363,41.798805,,FOR_RENT,2093124390,,https://photos.zillowstatic.com/fp/888b95fc4054aaf1353b2c5187cf5d3f-p_e.jpg,601,1,,USA,USD,1,TRUE
+32,,,,"5252 S Cornell Ave, Chicago, IL",,,,,,,,41.80031--87.58595,,https://photos.zillowstatic.com/fp/daca2fb464cbd9bd6d1e72ece203c1c0-p_e.jpg,,,,,,,TRUE
+33,,,,"660 W Barry Ave, Chicago, IL",,,,,,,,41.938187--87.646736,,https://photos.zillowstatic.com/fp/5457b26065f7098f6e56101e97de94ce-p_e.jpg,,,,,,,TRUE
+34,,,,"220 W Illinois St, Chicago, IL",,,,,,,,41.890976--87.63526,,https://photos.zillowstatic.com/fp/300aadcba35ca4a34d85a43035b7524d-p_e.jpg,,,,,,,TRUE
+35,,APARTMENT,,"5468-70 S. Hyde Park Boulevard, 5468-70 S Hyde Park Blvd #5468-2, Chicago, IL 60615",-1,2955,,-87.5844,41.79612,,FOR_RENT,2064282042,,https://photos.zillowstatic.com/fp/cd969eaf993fbd1eaec8a2468e49adeb-p_e.jpg,1846,2,,USA,USD,4,TRUE
+36,,,,"2480 N Milwaukee Ave, Chicago, IL",,,,,,,,41.926315--87.70341,,https://photos.zillowstatic.com/fp/b47a22e27e741f163bade23eb1f71dd2-p_e.jpg,,,,,,,TRUE
+37,,APARTMENT,,"The Erikson, 3728 N Lake Shore Dr #201, Chicago, IL 60613",-1,3600,,-87.64533,41.951298,,FOR_RENT,2064329771,,https://photos.zillowstatic.com/fp/700568b52aaea82262cd6da8f479e0d0-p_e.jpg,1013,2,,USA,USD,2,TRUE
+38,,,,"1234 S Michigan Ave, Chicago, IL",,,,,,,,41.866524--87.62462,,https://photos.zillowstatic.com/fp/b9c35f5947bd2f0045c364af0e0a5ed3-p_e.jpg,,,,,,,TRUE
+39,,APARTMENT,,"923 W Weed St FLOOR 5-ID304, Chicago, IL 60642",-1,2260,,-87.65213,41.90959,,FOR_RENT,2064136251,,https://photos.zillowstatic.com/fp/8a0775a699ea519c1a2fcc3ecd284673-p_e.jpg,438,1,,USA,USD,0,TRUE

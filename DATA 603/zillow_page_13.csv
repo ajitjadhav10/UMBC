@@ -1,0 +1,41 @@
+,dateSold,propertyType,lotAreaValue,address,daysOnZillow,price,listingDateTime,longitude,latitude,contingentListingType,listingStatus,zpid,listingSubType,imgSrc,livingArea,bathrooms,lotAreaUnit,country,currency,bedrooms,hasImage
+0,,APARTMENT,0.285169881,"3001 W Gunnison St, 3003 W Gunnison St APT 2N, Chicago, IL 60625",-1,1295,,-87.7039,41.96914,,FOR_RENT,89956026,,https://photos.zillowstatic.com/fp/409f57622bfdfafe2477c97531862225-p_e.jpg,,1,acres,USA,USD,1,TRUE
+1,,,,"512 W Cornelia Ave, Chicago, IL",,,,,,,,41.94675--87.64333,,https://photos.zillowstatic.com/fp/5cc73c52722bafd69dd9fccf5ac88689-p_e.jpg,,,,,,,TRUE
+2,,,,"450 W Melrose St, Chicago, IL",,,,,,,,41.9415--87.641655,,https://photos.zillowstatic.com/fp/ce765be798123bdf51aea6b76782602b-p_e.jpg,,,,,,,TRUE
+3,,,,"6100 N Winthrop Ave, Chicago, IL",,,,,,,,41.99245--87.65847,,https://photos.zillowstatic.com/fp/a2a4f6af07ba8cd7c38591a658c4b434-p_e.jpg,,,,,,,TRUE
+4,,,,"2340 N California Ave, Chicago, IL",,,,,,,,41.92408--87.6978,,https://photos.zillowstatic.com/fp/76f564af83a135197bc2554728eaeecd-p_e.jpg,,,,,,,TRUE
+5,,APARTMENT,,"Cornell Terrace, 5430 S Cornell Ave APT 202, Chicago, IL 60615",-1,1275,,-87.586006,41.79715,,FOR_RENT,2083931086,,https://photos.zillowstatic.com/fp/65b717888cc6b9d877765a5405b727ae-p_e.jpg,415,1,,USA,USD,1,TRUE
+6,,,,"1000 N Lasalle Dr, Chicago, IL",,,,,,,,41.901283--87.63322,,https://photos.zillowstatic.com/fp/bbabf52b6be83cdb7f710029d701d96a-p_e.jpg,,,,,,,TRUE
+7,,,,"3610 N Pine Grove Ave, Chicago, IL",,,,,,,,41.95424--87.649254,,https://photos.zillowstatic.com/fp/91edba435e0dbffff505e3f84dc1bb59-p_e.jpg,,,,,,,TRUE
+8,,,,"4700 S Lake Park Ave, Chicago, IL",,,,,,,,41.809177--87.59248,,https://photos.zillowstatic.com/fp/29a243ee93e1e736ebc49d10803dc214-p_e.jpg,,,,,,,TRUE
+9,,,,"4615 N Malden St, Chicago, IL",,,,,,,,41.965916--87.66209,,https://photos.zillowstatic.com/fp/91ce77587b0713a6b5aae7b835adfe2c-p_e.jpg,,,,,,,TRUE
+10,,,,"3334-3344 W Ainslie St, Chicago, IL",,,,,,,,41.970367--87.71249,,https://photos.zillowstatic.com/fp/7346360086c2228942f3a3a99529bbbb-p_e.jpg,,,,,,,TRUE
+11,,,,"4545 N Beacon St, Chicago, IL",,,,,,,,41.96487--87.66338,,https://photos.zillowstatic.com/fp/7c7e1d135e79d52a47faf8ec7190a520-p_e.jpg,,,,,,,TRUE
+12,,,,"3655-3657 N Bosworth Ave, Chicago, IL",,,,,,,,41.948685--87.66735,,https://photos.zillowstatic.com/fp/2070dac1d673e5d69bbf660572361e99-p_e.jpg,,,,,,,TRUE
+13,,,,"1228-1234 W Carmen Ave, Chicago, IL",,,,,,,,41.97427--87.67201,,https://photos.zillowstatic.com/fp/7fce3ee5c33a962619212626ecf70c7d-p_e.jpg,,,,,,,TRUE
+14,,APARTMENT,,"2557-65 W Montrose, 2565 W Montrose Ave APT 1B, Chicago, IL 60618",-1,1250,,-87.693596,41.96109,,FOR_RENT,2095482239,,https://photos.zillowstatic.com/fp/48f7aa23d62cab6a3fe12a6975d9b9a0-p_e.jpg,710,1,,USA,USD,1,TRUE
+15,,APARTMENT,,"4028 1/2 N Paulina St #3B, Chicago, IL 60613",-1,1250,,-87.67135,41.949467,,FOR_RENT,2064124889,,https://photos.zillowstatic.com/fp/f6b67d394684e4b222ea49bffc5c4b30-p_e.jpg,560,1,,USA,USD,1,TRUE
+16,,,,"1945-1955 W Montrose Dr, Chicago, IL",,,,,,,,41.96134--87.67778,,https://photos.zillowstatic.com/fp/0b4f6e3a900bb014aa86acdcd17ff999-p_e.jpg,,,,,,,TRUE
+17,,,,"840 W Montrose Ave, Chicago, IL",,,,,,,,41.96209--87.65157,,https://photos.zillowstatic.com/fp/087fe6bbc3ed8a7400296363c3032933-p_e.jpg,,,,,,,TRUE
+18,,,,"922 W Addison St, Chicago, IL",,,,,,,,41.947407--87.65281,,https://photos.zillowstatic.com/fp/a1f4a6fedde6070a6db24a202b65ffd3-p_e.jpg,,,,,,,TRUE
+19,,,,"1850 N Humboldt Blvd, Chicago, IL",,,,,,,,41.915276--87.70277,,https://photos.zillowstatic.com/fp/c5045abbd4c0489e4f5a5d492d2b8e25-p_e.jpg,,,,,,,TRUE
+20,,APARTMENT,,"8100 S Throop St, 8100 S Throop St #1311-1, Chicago, IL 60620",-1,1025,,-87.65641,41.746624,,FOR_RENT,2078374145,,https://photos.zillowstatic.com/fp/dae2b4329010dec68fa5bdf9a4bff533-p_e.jpg,700,1,,USA,USD,1,TRUE
+21,,,,"1934 S Wabash Ave, Chicago, IL",,,,,,,,41.855743--87.62597,,https://photos.zillowstatic.com/fp/cdf65a0a4df076f960d11f2d51d9cc39-p_e.jpg,,,,,,,TRUE
+22,,,,"3001 W Lawrence Ave, Chicago, IL",,,,,,,,41.968227--87.70385,,https://photos.zillowstatic.com/fp/670a6760e1ba97a69aa7432ab49af586-p_e.jpg,,,,,,,TRUE
+23,,,,"2450-58 W Wilson Ave, Chicago, IL",,,,,,,,41.964794--87.6989,,https://photos.zillowstatic.com/fp/257f2cacd42d474bfc9d4df7df2b2e4a-p_e.jpg,,,,,,,TRUE
+24,,,,"200 E Illinois St, Chicago, IL",,,,,,,,41.891167--87.62217,,https://photos.zillowstatic.com/fp/b2d995d2278f4dd019c213c981de4b5d-p_e.jpg,,,,,,,TRUE
+25,,,,"1222 W Madison St, Chicago, IL",,,,,,,,41.88174--87.65795,,https://photos.zillowstatic.com/fp/62a458359ae43c31259fc252a32930d6-p_e.jpg,,,,,,,TRUE
+26,,,,"8345 S Drexel Ave, Chicago, IL",,,,,,,,41.742584--87.60221,,https://photos.zillowstatic.com/fp/a3d0d66f624e6a6577dfe5e3894d3ecb-p_e.jpg,,,,,,,TRUE
+27,,,,"1608 W Sherwin Ave, Chicago, IL",,,,,,,,42.014637--87.669075,,https://photos.zillowstatic.com/fp/541633f18c8fbe89ea82b2bdd126a85c-p_e.jpg,,,,,,,TRUE
+28,,,,"4853 N Wolcott Ave, Chicago, IL",,,,,,,,41.97046--87.67566,,https://photos.zillowstatic.com/fp/bf6ad827876c0f4b1c7cad88c085666b-p_e.jpg,,,,,,,TRUE
+29,,APARTMENT,,"5540 Hyde Park Places, 5540 S Hyde Park Blvd #505, Chicago, IL 60637",-1,775,,-87.584114,41.794537,,FOR_RENT,2069893642,,https://photos.zillowstatic.com/fp/22c6a3fc0c02f3a2aa69a630901bfa7a-p_e.jpg,250,1,,USA,USD,0,TRUE
+30,,,,"2 W Delaware Pl, Chicago, IL",,,,,,,,41.89924--87.62909,,https://photos.zillowstatic.com/fp/6c9c0ec1df65651645aca2ed6f43741f-p_e.jpg,,,,,,,TRUE
+31,,,,"1644 W Pratt Blvd, Chicago, IL",,,,,,,,42.005863--87.67182,,https://photos.zillowstatic.com/fp/32e0886a685d8737f287ef09a9a8416c-p_e.jpg,,,,,,,TRUE
+32,,APARTMENT,,"1646 W Pratt Blvd #I, Chicago, IL 60626",-1,1600,,-87.671875,42.005863,,FOR_RENT,2071683112,,https://photos.zillowstatic.com/fp/d3f31a01389ecf3c5813549b98a0ea33-p_e.jpg,1000,1,,USA,USD,2,TRUE
+33,,APARTMENT,,"5300-5308 S. Greenwood Avenue, 5300-5308 S Greenwood Ave #1023-2, Chicago, IL 60615",-1,1650,,-87.600174,41.79916,,FOR_RENT,2069286830,,https://photos.zillowstatic.com/fp/ee55e6b587172bd013448c45c9c046a4-p_e.jpg,878,1,,USA,USD,2,TRUE
+34,,,,"423 E Ohio St, Chicago, IL",,,,,,,,41.892536--87.61664,,https://photos.zillowstatic.com/fp/b5eb4522c935582174da4512bb5c2444-p_e.jpg,,,,,,,TRUE
+35,,,,"1400 N Lake Shore Dr, Chicago, IL",,,,,,,,41.908024--87.62639,,https://photos.zillowstatic.com/fp/0dea6aabcdde05bfc6a39fdeea77ef25-p_e.jpg,,,,,,,TRUE
+36,,,,"420 W Belmont Ave, Chicago, IL",,,,,,,,41.940422--87.640396,,https://photos.zillowstatic.com/fp/043a15632babcb5a579e39e422b81058-p_e.jpg,,,,,,,TRUE
+37,,,,"2 E Oak St, Chicago, IL",,,,,,,,41.90092--87.62738,,https://photos.zillowstatic.com/fp/03344a357e39f670479d978bb384166a-p_e.jpg,,,,,,,TRUE
+38,,,,"343 W Wolf Point Plz, Chicago, IL",,,,,,,,41.887608--87.63746,,https://photos.zillowstatic.com/fp/97bc3d9e19f4641fb579bc2e673fec47-p_e.jpg,,,,,,,TRUE
+39,,APARTMENT,,"1702 N. Wolcott Ave., 1702 N Wolcott Ave #1S, Chicago, IL 60622",-1,1795,,-87.6752,41.912533,,FOR_RENT,2094640330,,https://photos.zillowstatic.com/fp/6ae99c4f200fd43796880c908a764f20-p_e.jpg,,1,,USA,USD,2,TRUE
